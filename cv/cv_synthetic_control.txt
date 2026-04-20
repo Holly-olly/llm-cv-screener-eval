@@ -1,0 +1,62 @@
+Alex Morgan
+UX Researcher  ·  User Insights · Product Research · Mixed Methods
+
+London, UK  ·  alex.morgan@email.com  ·  +44 7700 900123  ·  linkedin.com/in/alexmorgan-ux
+
+CORE SKILLS
+Research methods:  Usability testing · moderated/unmoderated interviews · diary studies · contextual inquiry · card sorting · tree testing
+Quantitative:      Survey design (Qualtrics, Typeform) · basic descriptive stats · SUS & CSAT scoring · A/B test reading · cohort analysis
+Tools:             Figma · Dovetail · Optimal Workshop · Hotjar · Maze · Lookback · Google Analytics · Miro
+Communication:     Research reports · stakeholder presentations · insight synthesis · journey mapping · experience blueprints
+
+EXPERIENCE
+
+Senior UX Researcher
+Mar 2022 – present
+Monzo Bank  ·  London, UK (hybrid)
+
+Lead user research across the core banking product for 8 million customers.
+Plan and execute 40+ research studies per year spanning discovery, evaluative, and generative phases.
+Run moderated usability tests with 6–12 participants per study; synthesise findings into actionable design recommendations.
+Partner with product managers and designers to embed research insights into quarterly roadmaps and sprint planning.
+Set up longitudinal diary studies to track user behaviour over 4–6 week periods; delivered insights that shaped onboarding redesign.
+Conduct competitive benchmarking and heuristic evaluations across 5 rival fintech apps per quarter.
+Mentor two junior researchers; introduced research repository (Dovetail) reducing duplicated research effort by ~30%.
+
+UX Researcher
+Aug 2019 – Feb 2022
+Just Eat Takeaway  ·  Amsterdam, Netherlands (remote)
+
+Owned research for the restaurant partner portal used by 60,000+ businesses across Europe.
+Conducted 80+ remote user interviews over 3 years; led synthesis sessions with cross-functional teams.
+Ran unmoderated testing via Maze for rapid concept validation at low cost.
+Built a quarterly NPS tracking system combining Typeform surveys with manual tagging; identified key drivers of restaurant churn.
+Collaborated with data analytics team to triangulate qualitative findings with funnel drop-off data.
+Presented research findings to C-level stakeholders in monthly insights forums.
+
+UX Research Intern → Junior UX Researcher
+Sep 2017 – Jul 2019
+Booking.com  ·  Amsterdam, Netherlands
+
+Supported senior researchers on usability studies for accommodation search and checkout flows.
+Managed participant recruitment and scheduling for 15+ studies.
+Transcribed and tagged interview recordings; built affinity diagrams in Miro.
+Led first independent study: card sort to redesign navigation taxonomy for mobile app (n=60).
+
+EDUCATION
+
+MSc Human-Computer Interaction
+University College London, 2017
+Dissertation: "Cognitive load in mobile navigation — a usability benchmark"
+
+BSc Psychology
+University of Edinburgh, 2015
+Focus: social and cognitive psychology; basic research methods; SPSS
+
+CERTIFICATIONS & TRAINING
+- Nielsen Norman Group UX Research Certificate (2021)
+- IDEO Design Thinking Practitioner (2020)
+- Google Analytics Individual Qualification (2019)
+
+LANGUAGES
+English (native) · Dutch (conversational)

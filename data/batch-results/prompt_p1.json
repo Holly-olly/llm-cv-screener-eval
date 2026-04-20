@@ -1,0 +1,290 @@
+[
+  {
+    "jd_id": "maki_people_senior_psychometrician",
+    "human_relevance": 3,
+    "v1_score": 95,
+    "p1_score": 95,
+    "delta_vs_v1": 0,
+    "verdict": "Apply",
+    "summary": "The candidate is a near-perfect match, possessing the rare combination of high-level psychometric expertise (IRT, SEM, DIF) and practical experience in building automated AI-driven assessment pipelines. Her direct experience at TestGorilla mirrors the specific requirements for scaling and validating assessment libraries at Maki People, and her technical portfolio confirms proficiency in the necessary modern data stack. There are no notable gaps; her profile aligns precisely with the role's need for both rigorous science and commercial scalability."
+  },
+  {
+    "jd_id": "Accenture_Talent_Transformation_Manager",
+    "human_relevance": 2,
+    "v1_score": 72,
+    "p1_score": 72,
+    "delta_vs_v1": 0,
+    "verdict": "Apply",
+    "summary": "Olga offers exceptional domain expertise in psychometrics and skills-based assessment architecture, which is a high-value differentiator for Accenture’s \"Skills-Based Organisation\" transformation initiatives. While her background is heavily focused on the technical science of assessment rather than traditional management consulting, her experience in large-scale data projects and stakeholder management provides a strong foundation for the Talent Transformation Manager role. The primary gap lies in demonstrating professional experience managing complex client delivery teams in a commercial consulting environment, which she should address by highlighting her cross-functional leadership at TestGorilla."
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "p1_score": 68,
+    "delta_vs_v1": 3,
+    "verdict": "Consider",
+    "summary": "The candidate demonstrates exceptional analytical depth and psychometric rigor, making her highly qualified for the strategic \"People Analytics\" side of the role. Her main gap is the lack of explicit Workday HRIS experience, which is a core technical requirement for this position. However, her extensive background in building automated data pipelines and managing large-scale HR data ecosystems suggests she would have a short learning curve for the platform-specific tooling."
+  },
+  {
+    "jd_id": "Atlantica Sustainable Infrastructure_Talent_Culture Analyst",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "p1_score": 72,
+    "delta_vs_v1": 7,
+    "verdict": "Apply",
+    "summary": "Olga offers exceptional analytical rigor and proven experience in building scalable people-data frameworks that directly support the role's requirement for global process optimization. While her background is heavily psychometric, her portfolio projects in workforce analytics demonstrate a strong ability to translate complex data into business-relevant insights. The main gap is her relative lack of traditional HR generalist/operational experience, which she should address by emphasizing her stakeholder management and cross-functional leadership skills during the interview."
+  },
+  {
+    "jd_id": "Canonical_talent_scientst",
+    "human_relevance": 2,
+    "v1_score": 85,
+    "p1_score": 92,
+    "delta_vs_v1": 7,
+    "verdict": "Apply",
+    "summary": "The candidate possesses an exceptional alignment with the \"Talent Scientist\" role, offering a rare combination of advanced psychometric expertise (IRT, CFA) and high-level proficiency in SQL/Python/AI evaluation. Her experience at TestGorilla provides direct, relevant domain experience in large-scale assessment operations that perfectly mirrors Canonical's mission to professionalize their hiring science. Her primary \"gap\" is simply a need to pivot from pure assessment construction to the specific stakeholder-facing behavioural interviewing and hiring process optimization required by this role."
+  },
+  {
+    "jd_id": "Dandelion_Civilization_Psychometric Modeling_Analyst",
+    "human_relevance": 3,
+    "v1_score": 95,
+    "p1_score": 96,
+    "delta_vs_v1": 1,
+    "verdict": "Apply",
+    "summary": "The candidate is an elite match, possessing 10+ years of high-level psychometric expertise and direct experience scaling assessment libraries similar to Dandelion’s requirements. Her unique blend of IRT/simulation modelling and production-grade data engineering (Python/SQL/dbt) makes her exceptionally qualified to lead the design of the company's behavioral framework and predictive risk systems. No significant gaps identified; her portfolio work confirms she is fully prepared to execute on the specific technical challenges mentioned in the job description."
+  },
+  {
+    "jd_id": "DataAnnotation_Quantitative_Psychologist_AI_Trainer",
+    "human_relevance": 2,
+    "v1_score": 65,
+    "p1_score": 62,
+    "delta_vs_v1": -3,
+    "verdict": "Consider",
+    "summary": "The candidate possesses exceptional technical depth in psychometrics and AI evaluation, significantly exceeding the role's requirements for statistical reasoning and model validation. The primary misalignment is geographical; the job posting explicitly restricts eligibility to the US, Canada, UK, Ireland, Australia, and New Zealand, whereas the candidate is based in Spain. If the candidate can satisfy residency requirements, they are a high-tier performer; otherwise, the location constraint is a hard dealbreaker."
+  },
+  {
+    "jd_id": "G-Research_Insight_Analyst",
+    "human_relevance": 2,
+    "v1_score": 72,
+    "p1_score": 68,
+    "delta_vs_v1": -4,
+    "verdict": "Consider",
+    "summary": "Olga offers exceptional analytical rigor and proven experience in building automated data pipelines and complex modelling that maps well to the \"Insight Analyst\" requirement. Her main gap is the lack of specific financial sector experience and discrete event simulation; however, her strong psychometric background and ability to translate ambiguous business questions into structured research make her a highly capable, transferable candidate for this strategic analytics role."
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner ",
+    "human_relevance": 2,
+    "v1_score": 78,
+    "p1_score": 85,
+    "delta_vs_v1": 7,
+    "verdict": "Apply",
+    "summary": "Olga’s deep technical background in psychometrics and workforce analytics, combined with her experience in translating complex data into business-ready insights, makes her a high-caliber candidate for a People Insights Partner role. Her proven ability to bridge the gap between technical assessment modeling and actionable human capital strategy aligns perfectly with the requirement to influence senior stakeholders. The primary adjustment will be translating her specialized psychometric expertise into the broader HRIS/business intelligence context required by this role."
+  },
+  {
+    "jd_id": "LinkedIn_HR_Data_Engineer_People_Analytics ",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "p1_score": 72,
+    "delta_vs_v1": 7,
+    "verdict": "Apply",
+    "summary": "The candidate demonstrates strong domain alignment through extensive experience in People Analytics and HR data infrastructure, specifically in automating complex psychometric pipelines. While the role is more \"Data Engineering\" focused than \"Psychometric,\" the candidate’s expertise in SQL/Python and building scalable data warehouses for HR systems provides a highly transferable technical foundation. The main gap is a potential lack of exposure to specific enterprise HR stacks (e.g., Workday/Visier), though her high-level proficiency in data architecture and governance should mitigate this."
+  },
+  {
+    "jd_id": "Proofpoint_People_Data_Analyst",
+    "human_relevance": 2,
+    "v1_score": 70,
+    "p1_score": 68,
+    "delta_vs_v1": -2,
+    "verdict": "Consider",
+    "summary": "Olga offers exceptional technical depth in psychometrics and data architecture that far exceeds the standard requirements for this role, providing a massive \"culture-add\" in people analytics sophistication. Her primary gap is the lack of explicit commercial experience with Power BI/Tableau dashboarding, though her strong SQL and Python background suggests she would achieve parity with these tools rapidly. She is an overqualified candidate who would likely treat this role as a pivot into broader people science."
+  },
+  {
+    "jd_id": "QIC_Digital_Hub_data_analyst",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "p1_score": 62,
+    "delta_vs_v1": -3,
+    "verdict": "Consider",
+    "summary": "The candidate demonstrates strong technical proficiency in SQL, Python, and automated pipeline development, which are highly transferable to product analytics. While her core domain is psychometrics rather than insurance/fintech unit economics, her experience with large-scale assessment data and predictive modeling confirms high analytical maturity. The main gap is a lack of direct experience with commercial unit economics (LTV/CAC) and Tableau, requiring a slight pivot from measurement science to product growth analytics."
+  },
+  {
+    "jd_id": "angels-space-art-director",
+    "human_relevance": 0,
+    "v1_score": 45,
+    "p1_score": 35,
+    "delta_vs_v1": -10,
+    "verdict": "Skip",
+    "summary": "While the candidate possesses world-class expertise in psychometrics and AI evaluation, there is a fundamental mismatch between her deep-tech, academic, and industrial research profile and the creative/brand-building requirements of an Art Director. The candidate's core competency lies in measurement validity and data science, whereas the role demands a portfolio-led background in visual design, content creation, and adult-industry marketing strategy."
+  },
+  {
+    "jd_id": "anglian-water-lead-systems-engineer",
+    "human_relevance": 0,
+    "v1_score": 20,
+    "p1_score": 35,
+    "delta_vs_v1": 15,
+    "verdict": "Skip",
+    "summary": "While the candidate is a highly skilled scientist in psychometrics and data modelling, their core domain expertise is in human assessment and behavioral analytics rather than utility-scale operational engineering. The requirement for deep technical experience in industrial infrastructure (ICS/OT), telephony, and critical systems engineering represents a significant gap that cannot be bridged by their current profile."
+  },
+  {
+    "jd_id": "bazaarvoice-provisioning-analyst",
+    "human_relevance": 0,
+    "v1_score": 35,
+    "p1_score": 35,
+    "delta_vs_v1": 0,
+    "verdict": "Skip",
+    "summary": "This candidate is significantly overqualified for a junior-level operational Provisioning Analyst role, as their deep expertise in advanced psychometrics and data science is misaligned with the administrative focus of this position. The role lacks the technical complexity and strategic scope required to leverage the candidate's core competencies, making this a poor fit for both parties."
+  },
+  {
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist ",
+    "human_relevance": 3,
+    "v1_score": 85,
+    "p1_score": 92,
+    "delta_vs_v1": 7,
+    "verdict": "Apply",
+    "summary": "Olga is an exceptional fit; her extensive psychometric rigor (IRT, DIF, CFA) provides a significant competitive advantage in People Analytics, far exceeding the standard statistical requirements for this role. Her background at TestGorilla demonstrates a rare, high-level ability to bridge technical data science (SQL/Python/ML) with complex HR strategic outcomes. The only minor gap is a direct shift from assessment science to generalist workforce analytics, though her portfolio clearly demonstrates the competency to bridge this transition."
+  },
+  {
+    "jd_id": "codility_assessment_scientist",
+    "human_relevance": 3,
+    "v1_score": 92,
+    "p1_score": 94,
+    "delta_vs_v1": 2,
+    "verdict": "Apply",
+    "summary": "The candidate is an exceptional fit, possessing a rare combination of advanced psychometric expertise (IRT, DIF, validation) and practical experience in scaling AI-driven assessment products at TestGorilla. Her direct experience in automating psychometric workflows and linking assessments to business outcomes aligns perfectly with Codility's focus on evidence-based technical hiring. There are no significant gaps; her profile effectively exceeds the requirements for both technical depth and product-centric application."
+  },
+  {
+    "jd_id": "freeplay_data_scientist",
+    "human_relevance": 2,
+    "v1_score": 55,
+    "p1_score": 52,
+    "delta_vs_v1": -3,
+    "verdict": "Consider",
+    "summary": "The candidate demonstrates strong foundational expertise in statistics, predictive modeling, and SQL/Python, which are highly transferable to mobile analytics. However, the primary gap is the transition from psychometric and human-capital domain data to game-product and LTV-centric monetization metrics, requiring a pivot in analytical focus."
+  },
+  {
+    "jd_id": "lightning-ai-frontend-engineer",
+    "human_relevance": 0,
+    "v1_score": 15,
+    "p1_score": 25,
+    "delta_vs_v1": 10,
+    "verdict": "Skip",
+    "summary": "While the candidate is a highly skilled assessment scientist and data professional, there is a fundamental mismatch between her expertise in psychometrics and the role's requirement for a dedicated Frontend Engineer. The candidate lacks the necessary professional experience in React, TypeScript, and large-scale UI architecture required for this software engineering position."
+  },
+  {
+    "jd_id": "meta_data_analyst",
+    "human_relevance": 2,
+    "v1_score": 85,
+    "p1_score": 85,
+    "delta_vs_v1": 0,
+    "verdict": "Apply",
+    "summary": "Olga’s deep technical background in psychometrics and scalable data pipelines aligns perfectly with the advanced quantitative requirements of People Analytics at a tech-forward firm like Meta. Her \"FEVS workforce analytics\" project acts as a high-fidelity proxy for the role’s focus on engagement modeling and executive storytelling. The main gap is a lack of specific experience with Tableau, though her proficiency in SQL, Python, and R suggests rapid adaptability."
+  },
+  {
+    "jd_id": "skillvue_people_scientist",
+    "human_relevance": 3,
+    "v1_score": 70,
+    "p1_score": 88,
+    "delta_vs_v1": 18,
+    "verdict": "Apply",
+    "summary": "Olga is an exceptionally strong candidate whose 10+ years of high-level psychometric expertise in IRT, automated monitoring, and AI evaluation significantly exceeds the role's base requirements. Her experience at TestGorilla mirrors the core needs of Skillvue’s SaaS assessment platform perfectly. The only potential gap is the absence of Italian language proficiency mentioned in her CV, which may be a logistical requirement for their client-facing operations."
+  },
+  {
+    "jd_id": "sorare-marketing-graphic-designer",
+    "human_relevance": 0,
+    "v1_score": 0,
+    "p1_score": 5,
+    "delta_vs_v1": 5,
+    "verdict": "Skip",
+    "summary": "The candidate is an elite psychometrician and data scientist with zero background in graphic design or creative production. There is a total misalignment between the candidate’s highly specialized technical profile and the requirements for a Marketing Graphic Designer role."
+  },
+  {
+    "jd_id": "the_world_bank_consultant_agent_evaluation",
+    "human_relevance": 3,
+    "v1_score": 92,
+    "p1_score": 92,
+    "delta_vs_v1": 0,
+    "verdict": "Apply",
+    "summary": "The candidate is an exceptional match, bringing deep psychometric rigor—specifically IRT, construct validity, and bias auditing—directly to the challenge of LLM agent evaluation. Her experience at TestGorilla automating psychometric monitoring at scale provides the exact \"evaluation infrastructure\" expertise requested, while her portfolio project using SHAP and fairness audits proves her ability to bridge traditional measurement with modern ML observability."
+  },
+  {
+    "jd_id": "unicef_people_culture_specialist",
+    "human_relevance": 2,
+    "v1_score": 72,
+    "p1_score": 72,
+    "delta_vs_v1": 0,
+    "verdict": "Apply",
+    "summary": "The candidate demonstrates exceptional data-driven capability in talent assessment and psychometrics, which aligns strongly with the role's requirement for leveraging workforce insights for talent development. Her extensive experience with the UN/World Bank and AI-integrated learning methodologies bridges the gap between technical assessment and organizational development. The primary gap is a transition from pure psychometric research to traditional L&D/instructional design, though her background in education consultancy and stakeholder management provides a robust foundation to adapt."
+  },
+  {
+    "jd_id": " Product_Growth_Analyst_wiris",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "p1_score": 58,
+    "delta_vs_v1": -7,
+    "verdict": "Consider",
+    "summary": "Olga offers exceptional statistical rigor and high-level analytical capabilities, particularly in experimental design and predictive modeling, which are highly transferable to growth analytics. However, her core experience is deeply rooted in psychometrics rather than SaaS product growth; she will need to pivot her narrative to emphasize her experience with SQL/pipelines and user-behavior modeling to bridge the gap with the specific requirements for GA4, marketing attribution, and B2B SaaS conversion funnels."
+  },
+  {
+    "jd_id": "AI_Video_Editor_PARTNERS",
+    "human_relevance": 0,
+    "v1_score": 10,
+    "p1_score": 10,
+    "delta_vs_v1": 0,
+    "verdict": "Skip",
+    "summary": "There is a total misalignment between the candidate’s highly specialized, PhD-level background in psychometrics/people data science and the requirements for a high-volume creative video editor. The candidate’s technical strengths in IRT, latent variable modeling, and SQL/Python offer no transferable value to a role centered on DTC video production and ad creative execution."
+  },
+  {
+    "jd_id": "Applied_AI_Engineer_Impress",
+    "human_relevance": 0,
+    "v1_score": 65,
+    "p1_score": 58,
+    "delta_vs_v1": -7,
+    "verdict": "Consider",
+    "summary": "Olga offers exceptional expertise in AI evaluation, LLM-based item generation, and production-grade monitoring, which provides a high-level framework for agent reliability. However, her core background is in Psychometrics rather than Software Engineering, creating a primary gap in direct experience with agent frameworks like LangGraph and complex API/system architecture required for this specific role."
+  },
+  {
+    "jd_id": "Customer_success_specialist_CareWise",
+    "human_relevance": 0,
+    "v1_score": 35,
+    "p1_score": 25,
+    "delta_vs_v1": -10,
+    "verdict": "Skip",
+    "summary": "The candidate is an overqualified psychometrician and data scientist whose profile is entirely misaligned with the requirements of a Customer Success Specialist role. While the candidate possesses exceptional analytical and problem-solving skills, this position represents a significant step down in terms of professional trajectory and functional expertise, suggesting a lack of long-term strategic fit."
+  },
+  {
+    "jd_id": "Data_Architect_Hanna_Robulets_Company",
+    "human_relevance": 0,
+    "v1_score": 35,
+    "p1_score": 40,
+    "delta_vs_v1": 5,
+    "verdict": "Skip",
+    "summary": "While the candidate is a highly skilled specialist in psychometrics and data science, her background lacks the deep enterprise-level data engineering and cloud architecture (Azure/Databricks) experience required for this Data Architect role. The core focus on psychometric modeling does not translate to the infrastructure, pipeline orchestration, and system scalability expertise mandated by this specific job description."
+  },
+  {
+    "jd_id": "Digital_Learning_Applications_Schneider_Electric",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "p1_score": 58,
+    "delta_vs_v1": -7,
+    "verdict": "Consider",
+    "summary": "Olga offers exceptional depth in psychometrics and data-driven AI evaluation, which provides a high-level strategic advantage for the \"AI/Analytics\" requirements of the role. However, she lacks direct operational experience in enterprise-grade LMS/LXP administration (Cornerstone OnDemand) and formal project management certifications (PMP/Agile) required to lead a global technical roadmap. She is a strong \"Consider\" if the hiring manager prioritizes an innovative, science-backed transformation of learning analytics over traditional system maintenance."
+  },
+  {
+    "jd_id": "QIT Software_data_scientist",
+    "human_relevance": 2,
+    "v1_score": 70,
+    "p1_score": 68,
+    "delta_vs_v1": -2,
+    "verdict": "Consider",
+    "summary": "The candidate demonstrates strong technical proficiency in SQL, Python, and automated data pipeline construction, which are directly transferable to the role's ETL and analysis requirements. While her domain expertise is deeply rooted in psychometrics rather than general business/operational data, her proven ability to transition manual processes to production-grade, automated workflows aligns well with the need for building scalable reporting solutions. The main gap is a lack of explicit experience with Microsoft Fabric/Power BI, necessitating a learning curve for the specific visualization stack."
+  },
+  {
+    "jd_id": "Senior_AI Engineer_MoveUp",
+    "human_relevance": 0,
+    "v1_score": 65,
+    "p1_score": 62,
+    "delta_vs_v1": -3,
+    "verdict": "Consider",
+    "summary": "Olga offers exceptional expertise in psychometrics and AI evaluation, with a strong, proven track record in automating production-grade pipelines for LLM-assisted systems. While her core domain is assessment science rather than general-purpose AI engineering, her technical proficiency in Python and MLOps creates a high-functioning bridge to this role's requirements in LLM-driven automation."
+  }
+]

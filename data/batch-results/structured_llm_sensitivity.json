@@ -1,0 +1,62 @@
+[
+  {
+    "jd_id": "codility_assessment_scientist",
+    "human_relevance": 3,
+    "llm_v1_score": 92,
+    "llm_score_v1ctx": 92,
+    "llm_score_v2ctx": 88,
+    "llm_delta": -4,
+    "structured_v1": 91.25,
+    "structured_v2": 69.5,
+    "struct_delta": -21.8
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "human_relevance": 1,
+    "llm_v1_score": 65,
+    "llm_score_v1ctx": 68,
+    "llm_score_v2ctx": 62,
+    "llm_delta": -6,
+    "structured_v1": 71.25,
+    "structured_v2": 58.0,
+    "struct_delta": -13.2
+  },
+  {
+    "jd_id": "angels-space-art-director",
+    "human_relevance": 0,
+    "llm_v1_score": 45,
+    "llm_score_v1ctx": 42,
+    "llm_score_v2ctx": 45,
+    "llm_delta": 3,
+    "structured_v1": 100.0,
+    "structured_v2": 100.0,
+    "struct_delta": 0.0
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner",
+    "human_relevance": 2,
+    "llm_score_v1ctx": null,
+    "llm_score_v2ctx": 87,
+    "llm_delta": null,
+    "structured_v1": null,
+    "structured_v2": null
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner",
+    "human_relevance": 2,
+    "llm_score_v1ctx": 85,
+    "llm_score_v2ctx": 93,
+    "llm_delta": 8,
+    "structured_v1": null,
+    "structured_v2": null
+  },
+  {
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist",
+    "human_relevance": 3,
+    "llm_score_v1ctx": 82,
+    "llm_score_v2ctx": 92,
+    "llm_delta": 10,
+    "structured_v1": null,
+    "structured_v2": null
+  }
+]

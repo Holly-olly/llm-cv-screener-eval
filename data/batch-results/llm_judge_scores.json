@@ -1,0 +1,682 @@
+[
+  {
+    "jd_id": "maki_people_senior_psychometrician",
+    "human_relevance": 3,
+    "p1_score": 95,
+    "p2_score": 96,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 5,
+      "usefulness": 5,
+      "comment": "The summary effectively highlights the candidate's relevant skills and experiences, providing a clear and actionable assessment of their fit for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies the candidate's alignment with key job requirements but lacks specific examples to substantiate the claims made."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "Accenture_Talent_Transformation_Manager",
+    "human_relevance": 2,
+    "p1_score": 72,
+    "p2_score": 68,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively identifies key requirements and gaps in the candidate's experience, providing actionable insights for improvement."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies a key strength of the candidate but lacks specific examples of skills or experiences that would enhance its clarity."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "human_relevance": 1,
+    "p1_score": 68,
+    "p2_score": 68,
+    "is_fp": true,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively identifies the candidate's strengths and a key gap, providing a clear rationale for the candidate's fit for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately highlights the candidate's analytical skills and psychometric expertise, but it lacks specific examples of relevant experience or tools that would strengthen its specificity."
+    },
+    "pairwise": {
+      "better": "B",
+      "reason": "Summary B provides a clear assessment of the candidate's qualifications while explicitly addressing the gap in Workday HRIS experience, which is crucial for the role, thus offering actionable insights for the candidate.",
+      "actual_winner": "P1",
+      "a_was": "P2"
+    }
+  },
+  {
+    "jd_id": "Atlantica Sustainable Infrastructure_Talent_Culture Analyst",
+    "human_relevance": 1,
+    "p1_score": 72,
+    "p2_score": 75,
+    "is_fp": true,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's strengths and areas for improvement, providing actionable insights for the candidate to enhance their application."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary accurately highlights the candidate's strengths but lacks specific examples or skills that directly relate to the job description."
+    },
+    "pairwise": {
+      "better": "A",
+      "reason": "Summary A provides specific evidence of Olga's relevant skills and experience, highlighting her analytical rigor and ability to translate data into insights, while also addressing a potential gap in her experience, making it more actionable for the candidate.",
+      "actual_winner": "P1",
+      "a_was": "P1"
+    }
+  },
+  {
+    "jd_id": "Canonical_talent_scientst",
+    "human_relevance": 2,
+    "p1_score": 92,
+    "p2_score": 92,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's relevant skills and experience while identifying a specific area for improvement, making it a valuable assessment for the candidate."
+    },
+    "p2_ratings": {
+      "accuracy": 3,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary identifies the candidate as a strong fit but lacks specific details about how their skills align with the job requirements."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "Dandelion_Civilization_Psychometric Modeling_Analyst",
+    "human_relevance": 3,
+    "p1_score": 96,
+    "p2_score": 98,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 5,
+      "usefulness": 5,
+      "comment": "The summary effectively highlights the candidate's relevant experience and skills, providing a clear rationale for their suitability for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's relevant psychometric background but lacks specific details about their skills or experiences that align with the job requirements."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "DataAnnotation_Quantitative_Psychologist_AI_Trainer",
+    "human_relevance": 2,
+    "p1_score": 62,
+    "p2_score": 68,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's strengths and the critical geographical constraint, providing a clear rationale for the hiring decision."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies a potential issue with residency status but lacks specific details about the candidate's qualifications or skills relevant to the job."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "G-Research_Insight_Analyst",
+    "human_relevance": 2,
+    "p1_score": 68,
+    "p2_score": 68,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's strengths and gaps in relation to the job requirements, but could benefit from more specific examples of relevant skills or experiences."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the candidate's analytical skills but lacks specific details about the skills or experiences that align with the job requirements."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner ",
+    "human_relevance": 2,
+    "p1_score": 85,
+    "p2_score": 82,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's relevant skills and experience while providing actionable insights for the candidate to consider in relation to the job requirements."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies the candidate as a strong fit but lacks specific details about the candidate's qualifications and how they align with the job requirements."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "LinkedIn_HR_Data_Engineer_People_Analytics ",
+    "human_relevance": 1,
+    "p1_score": 72,
+    "p2_score": 62,
+    "is_fp": true,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively identifies the candidate's strengths and gaps in relation to the job requirements, providing a clear rationale for the evaluation."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies a gap in the candidate's experience related to the job's requirements, but it could benefit from more specific examples of the skills or tools needed for the role."
+    },
+    "pairwise": {
+      "better": "A",
+      "reason": "Summary A provides a detailed analysis of the candidate's relevant experience and skills, highlighting both strengths and potential gaps, which helps the candidate make an informed decision about applying for the job.",
+      "actual_winner": "P1",
+      "a_was": "P1"
+    }
+  },
+  {
+    "jd_id": "Proofpoint_People_Data_Analyst",
+    "human_relevance": 2,
+    "p1_score": 68,
+    "p2_score": 78,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively identifies the candidate's strengths and gaps relative to the job requirements, providing a clear assessment of their fit for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the candidate as overqualified and highlights advanced analytical capabilities, but lacks specific examples of skills or tools relevant to the job description."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "QIC_Digital_Hub_data_analyst",
+    "human_relevance": 1,
+    "p1_score": 62,
+    "p2_score": 68,
+    "is_fp": true,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively identifies the candidate's strengths and gaps in relation to the job requirements, providing actionable insights for the candidate."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's analytical skills and relevant experience, but it lacks specific details about the candidate's qualifications that align with the job's requirements."
+    },
+    "pairwise": {
+      "better": "A",
+      "reason": "Summary A provides a more detailed analysis of the candidate's skills and specific gaps in relation to the job requirements, offering clearer insights into the candidate's fit for the role.",
+      "actual_winner": "P1",
+      "a_was": "P1"
+    }
+  },
+  {
+    "jd_id": "angels-space-art-director",
+    "human_relevance": 0,
+    "p1_score": 35,
+    "p2_score": 40,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the mismatch between the candidate's qualifications and the job requirements, but could benefit from more specific examples of the skills needed for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies the lack of relevant experience for the role but fails to provide specific details about what creative art direction skills are missing."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "anglian-water-lead-systems-engineer",
+    "human_relevance": 0,
+    "p1_score": 35,
+    "p2_score": 25,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies a significant gap in the candidate's experience related to the job requirements, but it could benefit from more specific examples of the required skills."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies a misalignment between the candidate's background and the job requirements, but it could benefit from more specific examples of the necessary skills and experience."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "bazaarvoice-provisioning-analyst",
+    "human_relevance": 0,
+    "p1_score": 35,
+    "p2_score": 35,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the candidate's overqualification for the role, but it could benefit from more specific examples of the candidate's skills and how they diverge from the job requirements."
+    },
+    "p2_ratings": {
+      "accuracy": 3,
+      "specificity": 2,
+      "usefulness": 2,
+      "comment": "The summary identifies a potential mismatch in qualifications but lacks specific evidence to support its claims about the candidate's overqualification."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist ",
+    "human_relevance": 3,
+    "p1_score": 92,
+    "p2_score": 92,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 5,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's relevant skills and experience while accurately addressing the job's requirements, though it could provide more actionable insights for the candidate regarding the transition from assessment science to workforce analytics."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights relevant expertise but lacks specific examples of skills or tools that directly align with the job description."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "codility_assessment_scientist",
+    "human_relevance": 3,
+    "p1_score": 94,
+    "p2_score": 95,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 5,
+      "usefulness": 5,
+      "comment": "The summary provides a precise match between the candidate's qualifications and the job requirements, highlighting specific skills and experiences that directly relate to the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary effectively highlights the candidate's fit for the role but lacks specific evidence of relevant skills or experiences."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "freeplay_data_scientist",
+    "human_relevance": 2,
+    "p1_score": 52,
+    "p2_score": 48,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies a key gap in the candidate's experience related to the specific focus of the job, but it could benefit from more concrete examples of the candidate's relevant skills."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies a misalignment between the candidate's background and the job's focus, but it lacks specific details about the candidate's skills and experience."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "lightning-ai-frontend-engineer",
+    "human_relevance": 0,
+    "p1_score": 25,
+    "p2_score": 15,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the mismatch between the candidate's experience and the job requirements, providing specific skills that are lacking."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies a misalignment between the candidate's background and the job requirements, but it lacks specific details about the necessary frontend development skills."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "meta_data_analyst",
+    "human_relevance": 2,
+    "p1_score": 85,
+    "p2_score": 82,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights relevant skills and experiences while identifying a specific gap, providing a clear understanding of the candidate's fit for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 3,
+      "comment": "The summary accurately highlights the candidate's expertise relevant to the role but lacks specific details about the skills or experiences that directly align with the job description."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "skillvue_people_scientist",
+    "human_relevance": 3,
+    "p1_score": 88,
+    "p2_score": 85,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 5,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's relevant experience and identifies a specific potential gap, providing a clear assessment of fit for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately highlights the candidate's relevant experience but lacks specific details about the skills or tools that align with the job requirements."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "sorare-marketing-graphic-designer",
+    "human_relevance": 0,
+    "p1_score": 5,
+    "p2_score": 5,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 2,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the candidate's lack of relevant experience for the role, but it could benefit from more specific examples of the required skills in graphic design."
+    },
+    "p2_ratings": {
+      "accuracy": 5,
+      "specificity": 2,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the candidate's misalignment with the creative requirements of the role, but lacks specific details about the job's design-related skills."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "the_world_bank_consultant_agent_evaluation",
+    "human_relevance": 3,
+    "p1_score": 92,
+    "p2_score": 92,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 5,
+      "usefulness": 5,
+      "comment": "The summary effectively highlights the candidate's relevant expertise and experience, aligning perfectly with the job's requirements."
+    },
+    "p2_ratings": {
+      "accuracy": 3,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary identifies a relevant skill area but lacks specific evidence of the candidate's qualifications and does not clearly connect them to the job's requirements."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "unicef_people_culture_specialist",
+    "human_relevance": 2,
+    "p1_score": 72,
+    "p2_score": 72,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's relevant experience and skills, though it could provide more detail on how her background specifically aligns with the job's focus on digital learning and knowledge management."
+    },
+    "p2_ratings": {
+      "accuracy": 3,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary identifies some relevant skills but lacks concrete examples and does not fully align with the specific requirements of the job description."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": " Product_Growth_Analyst_wiris",
+    "human_relevance": 1,
+    "p1_score": 58,
+    "p2_score": 68,
+    "is_fp": true,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the candidate's strengths and areas for improvement, but it could benefit from more specific examples of relevant experience."
+    },
+    "p2_ratings": {
+      "accuracy": 3,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary identifies a lack of direct experience in key areas but fails to provide specific examples of relevant skills or tools that would support the candidate's potential fit for the role."
+    },
+    "pairwise": {
+      "better": "B",
+      "reason": "Summary B provides a more detailed analysis of Olga's skills and the specific areas she needs to address to align with the job requirements, making it more actionable for her decision to apply.",
+      "actual_winner": "P1",
+      "a_was": "P2"
+    }
+  },
+  {
+    "jd_id": "AI_Video_Editor_PARTNERS",
+    "human_relevance": 0,
+    "p1_score": 10,
+    "p2_score": 10,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 5,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights the candidate's misalignment with the job requirements, providing specific details about the candidate's background while clearly indicating the lack of relevant experience for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 3,
+      "specificity": 2,
+      "usefulness": 2,
+      "comment": "The summary identifies a misalignment between the candidate's background and the job requirements but lacks specific details about the candidate's skills or experiences relevant to video production."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "Applied_AI_Engineer_Impress",
+    "human_relevance": 0,
+    "p1_score": 58,
+    "p2_score": 48,
+    "is_fp": true,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies a key gap in the candidate's experience relevant to the role, but it could benefit from more specific examples of required skills or tools."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the mismatch between the candidate's background and the job requirements, but it could benefit from more specific examples of the skills needed for the role."
+    },
+    "pairwise": {
+      "better": "B",
+      "reason": "Summary B provides a clearer explanation of Olga's strengths and the specific gaps in her experience related to the job requirements, making it more actionable for her decision on whether to apply.",
+      "actual_winner": "P1",
+      "a_was": "P2"
+    }
+  },
+  {
+    "jd_id": "Customer_success_specialist_CareWise",
+    "human_relevance": 0,
+    "p1_score": 25,
+    "p2_score": 25,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies the candidate's misalignment with the role but lacks specific evidence to support its claims about the candidate's qualifications."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 2,
+      "usefulness": 3,
+      "comment": "The summary accurately identifies overqualification as a concern but lacks specific details about how Olga's skills do not align with the job requirements."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "Data_Architect_Hanna_Robulets_Company",
+    "human_relevance": 0,
+    "p1_score": 40,
+    "p2_score": 35,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the lack of relevant experience in Azure and Databricks but could benefit from more specific examples of the candidate's skills or experiences that do not align with the job requirements."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies that the candidate does not meet the essential requirements for the Data Architect position, but it could benefit from more specific details about the missing skills or experiences."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "Digital_Learning_Applications_Schneider_Electric",
+    "human_relevance": 1,
+    "p1_score": 58,
+    "p2_score": 58,
+    "is_fp": true,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively highlights key skills and gaps relevant to the job, providing a clear assessment of the candidate's fit for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 3,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary identifies a gap in specific experience related to the job requirements, but it could provide more detail on how Olga's skills align with the company's values and mission."
+    },
+    "pairwise": {
+      "better": "B",
+      "reason": "Summary B provides a clearer understanding of the candidate's strengths and weaknesses in relation to the specific requirements of the role, offering actionable insights on how her innovative skills could align with the hiring manager's priorities.",
+      "actual_winner": "P1",
+      "a_was": "P2"
+    }
+  },
+  {
+    "jd_id": "QIT Software_data_scientist",
+    "human_relevance": 2,
+    "p1_score": 68,
+    "p2_score": 78,
+    "is_fp": false,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 4,
+      "usefulness": 4,
+      "comment": "The summary effectively identifies key skills and gaps relevant to the job requirements, providing a clear assessment of the candidate's fit for the role."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately highlights Olga's strengths but lacks specific references to the required technical skills and tools mentioned in the job description."
+    },
+    "pairwise": null
+  },
+  {
+    "jd_id": "Senior_AI Engineer_MoveUp",
+    "human_relevance": 0,
+    "p1_score": 62,
+    "p2_score": 68,
+    "is_fp": true,
+    "p1_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies relevant experience but could provide more specific examples of skills directly related to the job description."
+    },
+    "p2_ratings": {
+      "accuracy": 4,
+      "specificity": 3,
+      "usefulness": 4,
+      "comment": "The summary accurately identifies the candidate's strengths and areas for improvement, but it could benefit from more specific details about the candidate's experience with the required tools."
+    },
+    "pairwise": {
+      "better": "B",
+      "reason": "Summary B provides a clearer assessment of the candidate's qualifications in relation to the job requirements, highlighting both strengths and areas for improvement, which helps the candidate make an informed decision about applying.",
+      "actual_winner": "P2",
+      "a_was": "P1"
+    }
+  }
+]

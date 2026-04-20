@@ -1,0 +1,482 @@
+[
+  {
+    "human_relevance": 3,
+    "v1_score": 95,
+    "jd_id": "maki_people_senior_psychometrician",
+    "labels": {
+      "gpt-4o": {
+        "label": 3,
+        "reasoning": "The candidate's extensive experience in psychometrics, including IRT, CFA, and DIF, aligns directly with the job's requirements for designing and validating psychometric assessments. Their skills in Python, R, and SQL, along with their interest in transitioning into roles like Assessment Scientist, make them a strong fit for this position, which involves integrating AI with psychometrics and collaborating with cross-functional teams."
+      },
+      "deepseek-r1:8b": {
+        "label": 3,
+        "reasoning": "The candidate's deep psychometrics expertise (IRT, CFA, DIF, Rasch) and programming skills (Python, R) directly match the job's requirements for complex analysis, automated scoring, and validation. Their experience building assessments aligns with the role's focus on psychometric tool development."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 72,
+    "jd_id": "Accenture_Talent_Transformation_Manager",
+    "labels": {
+      "gpt-4o": {
+        "label": 1,
+        "reasoning": "The candidate has extensive experience in psychometrics and assessment science, which involves data analysis and research skills relevant to the role's focus on talent transformation and skills analytics. However, the job is primarily a management consulting position requiring experience in talent management and capability strategy, which does not align with the candidate's core expertise or career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's psychometrics and HR tech experience (TestGorilla) show some alignment with the role's focus on talent transformation and skills-based organizations, but the candidate's background is more technical/data-focused, while the role requires strong management, consulting, and stakeholder leadership skills."
+      }
+    }
+  },
+  {
+    "human_relevance": 1,
+    "v1_score": 65,
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "labels": {
+      "gpt-4o": {
+        "label": 2,
+        "reasoning": "The candidate has extensive experience in psychometrics and data analysis, which aligns with the analytical and data-driven aspects of the People Analytics Lead role. However, the candidate lacks specific experience with Workday and HR systems, which are crucial for this position, making it a moderate fit rather than a strong one."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's extensive experience in data analysis, HR tech (TestGorilla), and Python/R/SQL aligns with the job's focus on People Analytics and data systems. However, the job requires specific expertise in Workday and HR data governance, which isn't directly covered in the candidate's psychometrics background, leading to a moderate fit."
+      }
+    }
+  },
+  {
+    "human_relevance": 1,
+    "v1_score": 65,
+    "jd_id": "Atlantica Sustainable Infrastructure_Talent_Culture Analyst",
+    "labels": {
+      "gpt-4o": {
+        "label": 2,
+        "reasoning": "The candidate has a strong background in data analysis and psychometrics, which aligns with the analytical and data-driven aspects of the Talent & Culture Analyst role. However, the candidate lacks direct experience in HR project roles and talent programs, which are core components of the job description."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's extensive experience in psychometrics, data analysis, and assessment development provides a strong foundation for the data-driven Talent & Culture Analyst role, particularly in areas like dashboard creation and trend analysis. However, the job emphasizes HR-specific frameworks and HRIS systems, which may require additional domain-specific experience not fully covered by the candidate's psychometrics background."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 85,
+    "jd_id": "Canonical_talent_scientst",
+    "labels": {
+      "gpt-4o": {
+        "label": 3,
+        "reasoning": "The candidate's extensive experience in psychometrics, scale construction, and data analysis aligns well with the Talent Scientist role, which emphasizes scientific approaches to talent selection and psychometric assessments. The job's focus on data-driven insights, SQL, Python, and statistical analysis matches the candidate's skills and transition goals into the HR/people domain."
+      },
+      "deepseek-r1:8b": {
+        "label": 3,
+        "reasoning": "The candidate's deep psychometrics expertise (IRT, CFA, DIF, Rasch) and hands-on experience building assessments align perfectly with the job's focus on psychometric assessments, data analysis (Python/R/SQL), and scientific talent selection. Their transition into HR data roles also matches the Talent Scientist's domain."
+      }
+    }
+  },
+  {
+    "human_relevance": 3,
+    "v1_score": 95,
+    "jd_id": "Dandelion_Civilization_Psychometric Modeling_Analyst",
+    "labels": {
+      "gpt-4o": {
+        "label": 3,
+        "reasoning": "The candidate's extensive experience in psychometrics, scale construction, and data analysis aligns directly with the job's focus on psychometric model development, simulation-based assessment design, and hiring risk analytics. Their skills in Python, R, and SQL are relevant for the technical requirements, and their interest in transitioning into roles like Assessment Scientist fits well with the job's responsibilities and focus on data-driven hiring systems."
+      },
+      "deepseek-r1:8b": {
+        "label": 3,
+        "reasoning": "The candidate's deep psychometrics expertise (IRT, CFA, DIF, Rasch) and experience building large-scale assessments align perfectly with the job's focus on psychometric modeling, simulation-based assessments, and predictive analytics for hiring. Their technical skills (Python, R) and transition into people data roles further match the job's requirements."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 65,
+    "jd_id": "DataAnnotation_Quantitative_Psychologist_AI_Trainer",
+    "labels": {
+      "gpt-4o": {
+        "label": 3,
+        "reasoning": "The candidate has extensive experience in psychometrics and data analysis, which aligns well with the job's focus on evaluating AI-generated quantitative work and solving quantitative problems. Their skills in Python, R, and SQL, along with their background in assessment science, make them a strong fit for this role that requires rigorous quantitative reasoning and coding experience."
+      },
+      "deepseek-r1:8b": {
+        "label": 3,
+        "reasoning": "The candidate's extensive psychometrics background, including IRT, CFA, DIF, and Rasch modeling, directly aligns with the job's focus on quantitative reasoning and validating AI outputs. Their experience with Python, R, SQL, and scale construction provides strong overlap with the required coding and analytical skills."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 72,
+    "jd_id": "G-Research_Insight_Analyst",
+    "labels": {
+      "gpt-4o": {
+        "label": 1,
+        "reasoning": "The job is in the finance domain, which is not aligned with the candidate's focus on psychometrics and HR/people data. While there are transferable skills in data analysis and the use of Python and SQL, the core focus on finance and business analytics is a mismatch for the candidate's expertise and career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate's extensive experience in psychometrics and data analysis using Python/R/SQL shows strong alignment with the job's requirements for statistical methods and technical skills. However, the role is in a finance domain, while the candidate is transitioning into HR/people domains, creating a core mismatch in domain expertise."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 78,
+    "jd_id": "Johnson_Controls_People Insights_Partner ",
+    "labels": {
+      "gpt-4o": {
+        "label": 3,
+        "reasoning": "The candidate's extensive experience in psychometrics, data analysis, and assessment construction aligns well with the job's focus on people analytics and statistical analysis. Their skills in Python, R, and data visualization tools are directly relevant to the role's requirements, making this a strong fit for their transition into a People Data Scientist or Assessment Scientist position."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's expertise in data analysis, Python, R, and HR systems aligns with the job's requirements for statistical programming and HR data analysis. However, the candidate's focus on psychometrics and assessment science may not fully match the job's emphasis on broader HR analytics and workforce metrics."
+      }
+    }
+  },
+  {
+    "human_relevance": 1,
+    "v1_score": 65,
+    "jd_id": "LinkedIn_HR_Data_Engineer_People_Analytics ",
+    "labels": {
+      "gpt-4o": {
+        "label": 1,
+        "reasoning": "The candidate has strong skills in psychometrics and data analysis, which are somewhat transferable to the HR Data Engineer role. However, the job requires significant experience in data engineering, ETL processes, and database management, which are not highlighted in the candidate's profile. Additionally, the candidate is not looking for pure engineering roles, making this position a low relevance match."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate's expertise in psychometrics and data analysis partially aligns with HR data tasks, but the role requires specific engineering skills (ETL, data pipelines, HR systems) not directly covered by the candidate's profile, despite some SQL familiarity."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 70,
+    "jd_id": "Proofpoint_People_Data_Analyst",
+    "labels": {
+      "gpt-4o": {
+        "label": 2,
+        "reasoning": "The candidate has strong data analysis skills and experience with SQL, which are relevant to the People Data Analyst role. However, the job requires proficiency in Power BI and a focus on HR metrics, which the candidate's profile does not explicitly mention. Additionally, the candidate is transitioning into the HR/people domain, making this role moderately relevant."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's data analysis, Python/R/SQL skills and dashboard experience show meaningful overlap with the job's requirements. However, the core psychometrics expertise and focus on assessment science may not directly align with the HR data analysis role."
+      }
+    }
+  },
+  {
+    "human_relevance": 1,
+    "v1_score": 65,
+    "jd_id": "QIC_Digital_Hub_data_analyst",
+    "labels": {
+      "gpt-4o": {
+        "label": 1,
+        "reasoning": "The candidate has strong data analysis skills and experience with Python and SQL, which are relevant to the job. However, the role focuses on product and operational data analysis in the insurance industry, which does not align with the candidate's expertise in psychometrics and assessment science. Additionally, the candidate is not looking for roles outside the HR/people domain."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's data analysis, Python, and SQL skills align well with the job's requirements. However, the core psychometrics and assessment science expertise, while transferable, differs from the product/operational data focus, making it a moderate fit."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 45,
+    "jd_id": "angels-space-art-director",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description for an Art Director in the adult creator economy is entirely unrelated to the candidate's expertise in psychometrics, data analysis, and assessment science. The role focuses on visual design, art direction, and managing social media content, which are outside the candidate's stated interests and skills."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate's core skills in psychometrics and data analysis show some overlap with the job's requirement for behavioral pattern analysis, but the role requires visual design and AI-driven persona creation, which are outside the candidate's expertise and domain focus."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 20,
+    "jd_id": "anglian-water-lead-systems-engineer",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description is for a Lead Systems Engineer role, which is focused on engineering leadership, system integration, and operational systems in the utilities sector. The candidate's expertise is in psychometrics and data analysis within the HR/people domain, making this role entirely unrelated to their skills and career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 0,
+        "reasoning": "The candidate's expertise in psychometrics, data analysis, and HR domains does not align with the engineering leadership and systems infrastructure requirements of this Lead Systems Engineer role."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 35,
+    "jd_id": "bazaarvoice-provisioning-analyst",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description for a Provisioning Analyst is not relevant to the candidate's expertise in psychometrics, data analysis, or the HR/people domain. The role focuses on client onboarding and project management in a retail technology context, which does not align with the candidate's skills or career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate's expertise in psychometrics and data analysis has some potential for transferable skills, but the core focus of the Provisioning Analyst role is operational and client-facing tasks, which doesn't align closely with their background."
+      }
+    }
+  },
+  {
+    "human_relevance": 3,
+    "v1_score": 85,
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist ",
+    "labels": {
+      "gpt-4o": {
+        "label": 2,
+        "reasoning": "The candidate has significant experience in psychometrics and data analysis, which aligns with the data science and HR analytics focus of the job. However, the candidate lacks specific experience in People Analytics and HR processes, which are emphasized in the job description."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's extensive experience in psychometrics, data analysis, and statistical modeling (IRT, CFA, Python/R) aligns well with the job's requirements for data science and HR analytics. However, the specific focus on HR processes and People Analytics is a moderate fit, given the candidate's background in assessment science rather than direct HR analytics."
+      }
+    }
+  },
+  {
+    "human_relevance": 3,
+    "v1_score": 92,
+    "jd_id": "codility_assessment_scientist",
+    "labels": {
+      "gpt-4o": {
+        "label": 3,
+        "reasoning": "The candidate's extensive experience in psychometrics, scale construction, and assessment aligns well with the role's focus on designing and implementing skills-based assessment strategies. Their skills in Python, R, and SQL for data analysis are relevant for the statistical and AI-assisted analysis tasks mentioned in the job description. Additionally, the candidate's interest in transitioning into an Assessment Scientist role makes this position a strong fit."
+      },
+      "deepseek-r1:8b": {
+        "label": 3,
+        "reasoning": "The candidate's deep psychometrics expertise (IRT, CFA, DIF, Rasch) and experience designing validated assessments aligns perfectly with the job's focus on assessment science, validation, and technical hiring. Their skills in Python/R and TestGorilla directly match the required technical and statistical competencies."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 55,
+    "jd_id": "freeplay_data_scientist",
+    "labels": {
+      "gpt-4o": {
+        "label": 1,
+        "reasoning": "The candidate has strong data analysis skills and experience with Python and SQL, which are relevant to the job. However, the role focuses on mobile analytics, game data, and marketing, which are outside the candidate's expertise and stated interests in HR/people data science and assessment science."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate has relevant data science skills (Python, SQL, statistics) and experience with ML model building, but the job focuses on mobile analytics and game data, which is outside their psychometrics and HR/assessment domain."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 15,
+    "jd_id": "lightning-ai-frontend-engineer",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description is for a Frontend Engineer role, which is not aligned with the candidate's expertise in psychometrics, data analysis, and assessment science. The candidate is not looking for pure engineering roles, making this position irrelevant to their career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 0,
+        "reasoning": "The candidate's expertise in psychometrics, data analysis, and HR domains does not align with the frontend engineering requirements of this role, which focuses on React, JavaScript, and software development."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 85,
+    "jd_id": "meta_data_analyst",
+    "labels": {
+      "gpt-4o": {
+        "label": 3,
+        "reasoning": "The candidate's extensive experience in psychometrics, data analysis, and use of Python, R, and SQL aligns well with the job's requirements for data analytics and people insights. Their interest in transitioning into People Data Scientist or Data Analyst roles in the HR domain makes this position a strong fit, as it involves working with people data and influencing HR strategies."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's skills in Python, R, SQL, and data visualization align well with the job's requirements. However, the candidate's psychometrics background may not directly match the focus on HR/organizational data, though there is potential for transferable expertise in people analytics."
+      }
+    }
+  },
+  {
+    "human_relevance": 3,
+    "v1_score": 70,
+    "jd_id": "skillvue_people_scientist",
+    "labels": {
+      "gpt-4o": {
+        "label": 3,
+        "reasoning": "The candidate has extensive experience in psychometrics, including scale construction and assessment validation, which aligns well with the job's focus on creating and validating assessments. Their background in data analysis with Python, R, and SQL is also relevant for creating reports and dashboards, making this a strong fit for their transition into a People Scientist role."
+      },
+      "deepseek-r1:8b": {
+        "label": 3,
+        "reasoning": "The candidate's extensive psychometrics experience and assessment-building skills directly align with the job's core requirements. Their domain expertise in psychometric validation and client-focused responsibilities is a strong match."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 0,
+    "jd_id": "sorare-marketing-graphic-designer",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description is for a Marketing Graphic Designer role, which is entirely unrelated to the candidate's expertise in psychometrics, data analysis, and assessment science. The candidate is not seeking roles in graphic design or marketing, making this position not relevant to their career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 0,
+        "reasoning": "The candidate's expertise in psychometrics, data analysis, and HR domains does not align with the graphic design and marketing requirements of this role."
+      }
+    }
+  },
+  {
+    "human_relevance": 3,
+    "v1_score": 92,
+    "jd_id": "the_world_bank_consultant_agent_evaluation",
+    "labels": {
+      "gpt-4o": {
+        "label": 2,
+        "reasoning": "The candidate has a strong background in psychometrics and assessment, which aligns with the job's focus on evaluation frameworks and quality assessment. However, the role's emphasis on AI agent evaluation and ML systems is not a direct match to the candidate's experience, which is more focused on psychometrics and assessment science rather than AI systems."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's psychometrics background and experience designing evaluation frameworks aligns well with the job's focus on rubric design and agent evaluation. Their skills in data analysis and assessment building provide relevant transferable expertise."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 72,
+    "jd_id": "unicef_people_culture_specialist",
+    "labels": {
+      "gpt-4o": {
+        "label": 1,
+        "reasoning": "The candidate has extensive experience in psychometrics and data analysis, which are not directly aligned with the core responsibilities of a People & Culture Specialist focused on talent development and learning solutions. While there are some transferable skills in data analysis and reporting, the role's emphasis on human resources, learning design, and talent development diverges significantly from the candidate's expertise and career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's data analysis skills (Python, R) and experience with assessment systems show some relevance to the job's data organization and reporting requirements. However, the core focus on psychometrics and test development differs significantly from the HR/L&D domain and specific responsibilities like instructional design and digital learning platform management."
+      }
+    }
+  },
+  {
+    "human_relevance": 1,
+    "v1_score": 65,
+    "jd_id": " Product_Growth_Analyst_wiris",
+    "labels": {
+      "gpt-4o": {
+        "label": 1,
+        "reasoning": "The candidate has extensive experience in psychometrics and data analysis, which provides some transferable skills for a data-driven role. However, the job focuses heavily on product growth, marketing, and sales analytics, which are not aligned with the candidate's expertise or career transition goals in the HR/people domain."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's data analysis skills and experience with SQL and tools like Tableau are relevant, but the job focuses on product growth and SaaS environments, which differs from the candidate's psychometrics and HR data background."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 10,
+    "jd_id": "AI_Video_Editor_PARTNERS",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description is for a video ad editor role in a creative team, which is entirely unrelated to the candidate's expertise in psychometrics, data analysis, and assessment science. The candidate is not looking for roles in unrelated domains like marketing or creative production."
+      },
+      "deepseek-r1:8b": {
+        "label": 0,
+        "reasoning": "The candidate's expertise in psychometrics, data analysis, and assessment science has no overlap with the job's focus on video ad production and AI editing."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 65,
+    "jd_id": "Applied_AI_Engineer_Impress",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description is for an Applied AI Engineer role focused on building AI agents, which is a pure engineering position. The candidate is transitioning into roles related to people data science and assessment science, not engineering, making this position irrelevant to their current career goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate's expertise in psychometrics and data analysis has some overlap with the role's technical requirements, but the job requires specific experience in building production LLM/agent systems, which doesn't align with the candidate's background in assessment science and research."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 35,
+    "jd_id": "Customer_success_specialist_CareWise",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description for a Customer Success Specialist is in a different domain than the candidate's expertise in psychometrics and data analysis. The role focuses on customer support and relationship management, which does not align with the candidate's skills and career transition goals in data science and assessment science."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate's expertise in psychometrics, data analysis, and assessment science does not align with the customer support and relationship management core requirements of the Customer Success Specialist role."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 35,
+    "jd_id": "Data_Architect_Hanna_Robulets_Company",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description is focused on a Data Architect role with a strong emphasis on data engineering, Azure, and Databricks, which does not align with the candidate's expertise in psychometrics, assessment science, or HR data analysis. The candidate is not seeking pure engineering roles, making this position irrelevant to their career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate's expertise in psychometrics, IRT, and data analysis does not align with the required data architecture and Azure/Databricks skills for this role."
+      }
+    }
+  },
+  {
+    "human_relevance": 1,
+    "v1_score": 65,
+    "jd_id": "Digital_Learning_Applications_Schneider_Electric",
+    "labels": {
+      "gpt-4o": {
+        "label": 1,
+        "reasoning": "The candidate's expertise in psychometrics and assessment science does not align with the primary focus of the job, which is on learning technology platforms and HRIS systems. While there are some transferable skills in data analysis and stakeholder management, the core responsibilities and required experience in learning technologies and global program leadership present a significant mismatch."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's psychometrics and data analysis skills show some overlap with the job's data and analytics focus, but the role requires specific HR tech platform experience and program management expertise not directly matched by the candidate's background."
+      }
+    }
+  },
+  {
+    "human_relevance": 2,
+    "v1_score": 70,
+    "jd_id": "QIT Software_data_scientist",
+    "labels": {
+      "gpt-4o": {
+        "label": 2,
+        "reasoning": "The candidate has strong skills in data analysis using Python and R, as well as experience with SQL, which aligns with the job's requirements. However, the role's focus on Firebase data, Microsoft Fabric, and Power BI is not directly mentioned in the candidate's profile, and the job does not specifically relate to the HR/people domain or assessment science, which are the candidate's target areas."
+      },
+      "deepseek-r1:8b": {
+        "label": 2,
+        "reasoning": "The candidate's core skills in SQL, Python, and R align well with the job's technical requirements. However, the job focuses on general data analysis and reporting (especially with Firebase and Power BI), while the candidate's background is in psychometrics and HR data, leading to a moderate fit."
+      }
+    }
+  },
+  {
+    "human_relevance": 0,
+    "v1_score": 65,
+    "jd_id": "Senior_AI Engineer_MoveUp",
+    "labels": {
+      "gpt-4o": {
+        "label": 0,
+        "reasoning": "The job description is for an AI Engineer role focusing on LLM-driven systems and AI/ML solutions, which is outside the candidate's expertise in psychometrics and assessment science. The candidate is not looking for pure engineering roles, making this position irrelevant to their career transition goals."
+      },
+      "deepseek-r1:8b": {
+        "label": 1,
+        "reasoning": "The candidate's expertise in psychometrics and data analysis has some transferable skills (e.g., Python, handling datasets), but the job requires specific experience with LLMs, NLP, and deploying AI/ML solutions into production, which does not align with the candidate's background."
+      }
+    }
+  }
+]

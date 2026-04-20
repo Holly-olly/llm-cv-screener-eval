@@ -1,0 +1,546 @@
+[
+  {
+    "jd_id": "maki_people_senior_psychometrician",
+    "human_relevance": 3,
+    "v1_score": 95,
+    "scores": {
+      "gpt-4o": {
+        "score": 92,
+        "verdict": "Apply",
+        "summary": "Olga Maslenkova is a strong fit for the Senior Psychometrician role, with extensive experience in psychometrics, AI evaluation, and assessment development, aligning well with the job's focus on integrating AI and psychometrics. Her proven track record in automated psychometric processes and AI-assisted assessment features, coupled with her technical expertise in tools like R, Python, and SQL, make her an ideal candidate. The main gap is the lack of explicit mention of a strong academic publication record, but her practical experience and portfolio projects compensate significantly."
+      },
+      "deepseek-r1:8b": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Olga has a strong fit with the role's focus on psychometrics, AI evaluation, and automated systems, demonstrated through her experience in psychometric assessment development, IRT expertise, and technical projects. However, her publication record is less prominent than required."
+      }
+    }
+  },
+  {
+    "jd_id": "Accenture_Talent_Transformation_Manager",
+    "human_relevance": 2,
+    "v1_score": 72,
+    "scores": {
+      "gpt-4o": {
+        "score": 68,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and assessment science, which aligns with the talent transformation focus on skills analytics and capability strategy. Her experience with AI evaluation and data-driven approaches could be beneficial for implementing learning and reskilling programs. However, there is a gap in direct experience with talent management consulting and leading global teams in complex learning implementations, which are critical for the role."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "The candidate's psychometrics and AI evaluation expertise aligns well with talent assessment aspects of the role, but lacks direct experience in leading talent transformation consulting projects and managing global teams."
+      }
+    }
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 75,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analytics, which aligns well with the analytical and data-driven focus of the People Analytics Lead role. Her experience in psychometric evaluation and AI scoring validation demonstrates her capability in data governance and quality, crucial for the role. However, her direct experience with HR systems like Workday and specific visualization tools such as Power BI is not explicitly mentioned, which may require some upskilling or adaptation."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "The candidate demonstrates strong data analysis and psychometric skills, aligning somewhat with the role's need for advanced analytics. However, the lack of direct HR/People Analytics experience and familiarity with Workday is a significant gap."
+      }
+    }
+  },
+  {
+    "jd_id": "Atlantica Sustainable Infrastructure_Talent_Culture Analyst",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 72,
+        "verdict": "Apply",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analysis, which aligns well with the Talent & Culture Analyst role's emphasis on data-driven insights and process improvement. Her experience in designing and implementing scalable frameworks and her proficiency in SQL and Python are key fit signals for the role's requirement for analytical and data-driven skills. The main gap is her limited direct experience in HR-specific programs like talent acquisition and succession planning, but her transferable skills in managing complex projects and her background in psychology provide a solid foundation for bridging this gap."
+      },
+      "deepseek-r1:8b": {
+        "score": 55,
+        "verdict": "Skip",
+        "summary": "The candidate has strong data analysis and psychometric skills (adjacent domain) but lacks direct experience in HR talent processes, HRIS systems, and stakeholder management required for this role."
+      }
+    }
+  },
+  {
+    "jd_id": "Canonical_talent_scientst",
+    "human_relevance": 2,
+    "v1_score": 85,
+    "scores": {
+      "gpt-4o": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Olga Maslenkova is a strong fit for the Talent Scientist role at Company_XX, with extensive experience in psychometrics and data-driven assessment processes, aligning well with the role's focus on scientific hiring methods. Her proficiency in SQL, Python, and statistical analysis, coupled with a robust academic background in psychology, complements the technical and analytical requirements of the position. The main gap is her lack of explicit experience in the technology or consulting industry, but her skills and experience in psychometric assessments and data science are highly relevant."
+      },
+      "deepseek-r1:8b": {
+        "score": 78,
+        "verdict": "Apply",
+        "summary": "The candidate has strong psychometrics and data skills (matching 3/9 JD skills) and relevant remote experience, but lacks explicit hiring experience in tech/consulting, a key requirement for the role."
+      }
+    }
+  },
+  {
+    "jd_id": "Dandelion_Civilization_Psychometric Modeling_Analyst",
+    "human_relevance": 3,
+    "v1_score": 95,
+    "scores": {
+      "gpt-4o": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Olga Maslenkova is a strong fit for the Psychometric Modeling & Talent Risk Analyst role, with extensive domain expertise in psychometrics and experience in developing and validating assessment tools, which aligns well with the job requirements. Her technical skills in R, Python, and SPSS, along with her experience in predictive modeling and psychometric evaluation, make her a compelling candidate. The main gap is the lack of explicit experience in HR analytics or organizational psychology, but her transition into people data science suggests a strategic alignment with the role's focus."
+      },
+      "deepseek-r1:8b": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Strong fit due to Olga's extensive psychometrics expertise (IRT, CTT, predictive modeling) and experience translating research into product specs, aligning well with the role's focus on psychometric models and data-driven hiring. Minor gap in explicit experience with digital behavioral data or team compatibility modeling."
+      }
+    }
+  },
+  {
+    "jd_id": "DataAnnotation_Quantitative_Psychologist_AI_Trainer",
+    "human_relevance": 2,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 78,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and AI evaluation, aligning well with the role's focus on evaluating AI-generated quantitative work. Her technical skills in statistical methods and experience with predictive modeling are a good fit, although her primary experience is in psychometrics rather than broader quantitative fields like data science or operations research. The main gap is the lack of explicit experience in some required areas such as time-series forecasting and broader quantitative problem-solving, but her strong background in psychometrics and AI evaluation suggests a genuine overlap with the role's requirements."
+      },
+      "deepseek-r1:8b": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Strong fit due to direct experience in AI evaluation, psychometrics, and statistical methods, aligning well with the role's focus on validating AI outputs and designing quantitative problems. Key gap is the specific industry focus, though skills are highly transferable."
+      }
+    }
+  },
+  {
+    "jd_id": "G-Research_Insight_Analyst",
+    "human_relevance": 2,
+    "v1_score": 72,
+    "scores": {
+      "gpt-4o": {
+        "score": 62,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analysis, with significant experience in statistical modeling and simulation, which aligns with the role's requirement for analytical and modeling techniques. Her experience with SQL and Python is beneficial, though her background is more focused on psychometrics than business analytics, which may require some adaptation. The main gap is the lack of direct experience in a finance or business analytics setting, which is central to the role."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "Olga's strong technical skills in data analysis, Python, SQL, and statistical methods demonstrate a good fit for the data-focused role. However, her experience is more specialized in psychometrics and assessment development, which differs from the general business analytics focus required."
+      }
+    }
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner ",
+    "human_relevance": 2,
+    "v1_score": 78,
+    "scores": {
+      "gpt-4o": {
+        "score": 78,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova's extensive experience in psychometrics and data analysis aligns well with the analytical and statistical demands of the People Insights Partner role. Her proficiency with statistical programming languages (R, Python) and experience in predictive validity studies and data visualization are strong fit signals. However, the need for on-site presence in the Netherlands and specific experience with HR systems like Workday might require consideration."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "Candidate's strong psychometrics and data skills show good fit, but lack direct HR analytics experience and familiarity with Power BI/Tableau is a key gap."
+      }
+    }
+  },
+  {
+    "jd_id": "LinkedIn_HR_Data_Engineer_People_Analytics ",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 67,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analysis, which aligns with the HR and People Analytics focus of the role. Her experience with SQL, Python, and data pipelines is a key fit signal, although her lack of direct experience with HR systems and specific data warehousing solutions like Databricks is a main gap."
+      },
+      "deepseek-r1:8b": {
+        "score": 55,
+        "verdict": "Consider",
+        "summary": "The candidate has relevant SQL and data pipeline experience, aligning with core technical requirements, but lacks specific HR data systems (like Visier) and comprehensive data warehousing engineering experience for the People Analytics domain."
+      }
+    }
+  },
+  {
+    "jd_id": "Proofpoint_People_Data_Analyst",
+    "human_relevance": 2,
+    "v1_score": 70,
+    "scores": {
+      "gpt-4o": {
+        "score": 78,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova demonstrates strong domain expertise in psychometrics, which aligns well with the data analysis and strategic insight requirements of the People Data Analyst role. Her experience with SQL and data pipelines complements the technical skill set needed, though her proficiency with Power BI or Tableau is not explicitly mentioned, representing a potential gap. Her transition into people data science and strong analytical skills make her a genuine candidate for consideration."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "The candidate's strong technical skills in data analysis, SQL, and statistical methods provide a good fit, but the focus on psychometrics and assessment science rather than direct HR/People analytics presents a key domain gap."
+      }
+    }
+  },
+  {
+    "jd_id": "QIC_Digital_Hub_data_analyst",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 72,
+        "verdict": "Apply",
+        "summary": "Olga Maslenkova demonstrates strong domain expertise in psychometrics and data analysis, with significant experience in SQL and Python, aligning well with the technical requirements of the Senior Data Analyst role. While her experience in Tableau and direct insurance industry knowledge is not explicitly mentioned, her proven ability to automate data processes and conduct complex analyses indicates a strong potential fit for the position."
+      },
+      "deepseek-r1:8b": {
+        "score": 58,
+        "verdict": "Consider",
+        "summary": "The candidate has relevant data skills (SQL, Python, dashboards) and experience with large datasets, but lacks direct experience in product/operational data analysis, Tableau proficiency, and unit economics, which are key requirements for this role."
+      }
+    }
+  },
+  {
+    "jd_id": "angels-space-art-director",
+    "human_relevance": 0,
+    "v1_score": 45,
+    "scores": {
+      "gpt-4o": {
+        "score": 30,
+        "verdict": "Skip",
+        "summary": "Olga Maslenkova's expertise in psychometrics and data science does not align with the art direction and creative requirements of the role. While her background in behavioral psychology could be relevant, the absence of experience in visual design, art direction, or the adult creator economy presents a significant gap for this position."
+      },
+      "deepseek-r1:8b": {
+        "score": 55,
+        "verdict": "Consider",
+        "summary": "The candidate's expertise in psychometrics and AI evaluation shows some relevance to understanding behavioral patterns, but the role requires strong visual design and adult industry experience, which are not present in the CV."
+      }
+    }
+  },
+  {
+    "jd_id": "anglian-water-lead-systems-engineer",
+    "human_relevance": 0,
+    "v1_score": 20,
+    "scores": {
+      "gpt-4o": {
+        "score": 30,
+        "verdict": "Skip",
+        "summary": "Olga Maslenkova's expertise lies in psychometrics and data analytics within the HR domain, which does not align with the core requirements of a Lead Systems Engineer role focused on engineering team leadership and operational systems. The key fit signal is her experience with data and analytics, but the main gap is the lack of relevant engineering and systems integration experience required for this position."
+      },
+      "deepseek-r1:8b": {
+        "score": 35,
+        "verdict": "Skip",
+        "summary": "The candidate has some technical skills (SQL, Python) but lacks the required domain expertise in systems engineering, operational technology, and leadership for engineering teams, falling below the threshold for consideration."
+      }
+    }
+  },
+  {
+    "jd_id": "bazaarvoice-provisioning-analyst",
+    "human_relevance": 0,
+    "v1_score": 35,
+    "scores": {
+      "gpt-4o": {
+        "score": 50,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analysis, which aligns partially with the analytical and problem-solving aspects of the Provisioning Analyst role. Her experience in managing complex projects and data pipelines is a key fit signal. However, the main gap is the lack of direct experience in provisioning or client onboarding in a SaaS or e-commerce context, which is central to the role at Company_XX."
+      },
+      "deepseek-r1:8b": {
+        "score": 68,
+        "verdict": "Consider",
+        "summary": "The candidate's meticulous approach and project management experience show potential fit, but the lack of direct experience in e-commerce provisioning and client onboarding creates significant domain gaps."
+      }
+    }
+  },
+  {
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist ",
+    "human_relevance": 3,
+    "v1_score": 85,
+    "scores": {
+      "gpt-4o": {
+        "score": 78,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova demonstrates strong domain expertise in psychometrics and data analysis, which aligns well with the People Analytics Data Scientist role. Her experience in predictive modeling and statistical analysis, along with her recent focus on transitioning into people data science, indicates a solid fit. However, the main gap is the lack of explicit experience in HR processes and direct people analytics roles, which could be crucial for strategic alignment with the job's HR-focused responsibilities."
+      },
+      "deepseek-r1:8b": {
+        "score": 72,
+        "verdict": "Consider",
+        "summary": "The candidate has strong technical skills in data science and psychometrics (IRT, SEM, SQL, Python) that align well with the job's requirements for statistical analysis and predictive modeling. However, the profile lacks direct experience in HR processes and business impact, which are key aspects of the People Analytics role."
+      }
+    }
+  },
+  {
+    "jd_id": "codility_assessment_scientist",
+    "human_relevance": 3,
+    "v1_score": 92,
+    "scores": {
+      "gpt-4o": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Olga Maslenkova is a strong fit for the Assessment Scientist role at Company_XX, with extensive experience in psychometrics, AI evaluation, and data analysis, aligning well with the job's focus on skills-based assessment strategies. Her background in developing and validating assessments, coupled with her experience in using AI tools and statistical methods, demonstrates her capability to contribute effectively to the company's goals. The main gap is the lack of explicit experience in I/O psychology, but her expertise in psychometrics and assessment science compensates for this."
+      },
+      "deepseek-r1:8b": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Olga's extensive psychometrics expertise (IRT, CFA/SEM) and direct experience with AI evaluation and validation studies align strongly with the role. Her portfolio demonstrates practical AI application, though a lack of explicit technical role assessment experience presents a minor gap."
+      }
+    }
+  },
+  {
+    "jd_id": "freeplay_data_scientist",
+    "human_relevance": 2,
+    "v1_score": 55,
+    "scores": {
+      "gpt-4o": {
+        "score": 62,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has a strong background in psychometrics and data analysis, which provides a solid foundation for transitioning into data science roles. Her proficiency in Python and SQL aligns well with the technical requirements of the position. However, she lacks specific experience in mobile analytics and LTV forecasting, which are crucial for the role."
+      },
+      "deepseek-r1:8b": {
+        "score": 75,
+        "verdict": "Apply",
+        "summary": "The candidate's strong technical skills in Python, SQL, and statistics, along with experience in predictive modeling and data analysis, align well with the core requirements. However, the domain focus on psychometrics and HR assessments may not fully match the mobile analytics and game data emphasis."
+      }
+    }
+  },
+  {
+    "jd_id": "lightning-ai-frontend-engineer",
+    "human_relevance": 0,
+    "v1_score": 15,
+    "scores": {
+      "gpt-4o": {
+        "score": 30,
+        "verdict": "Skip",
+        "summary": "The candidate has extensive expertise in psychometrics, assessment science, and data analysis, which does not align with the frontend engineering role focused on React, JavaScript, and TypeScript. The main gap is the lack of relevant technical skills and experience in software engineering and frontend development, which are critical for the position at Company_XX."
+      },
+      "deepseek-r1:8b": {
+        "score": 55,
+        "verdict": "Consider",
+        "summary": "The candidate has some technical skills (Python, SQL) and experience in a tech environment, but lacks direct frontend engineering expertise in React, TypeScript, and Redux, which are core requirements for this role."
+      }
+    }
+  },
+  {
+    "jd_id": "meta_data_analyst",
+    "human_relevance": 2,
+    "v1_score": 85,
+    "scores": {
+      "gpt-4o": {
+        "score": 78,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analysis, with a focus on people data science, aligning well with the People Analytics role. Her experience with SQL, Python, R, and executive-level presentations supports the technical requirements. However, her experience with Tableau and direct HR data analytics is less explicit, which might be a potential gap for this role."
+      },
+      "deepseek-r1:8b": {
+        "score": 68,
+        "verdict": "Consider",
+        "summary": "The candidate's strong technical skills and research background show good alignment with data analysis and reporting needs. However, the lack of explicit HR/people data focus and experience with tools like Tableau presents key gaps for this specific role."
+      }
+    }
+  },
+  {
+    "jd_id": "skillvue_people_scientist",
+    "human_relevance": 3,
+    "v1_score": 70,
+    "scores": {
+      "gpt-4o": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Olga Maslenkova is a strong fit for the People Scientist role at Company_XX, given her extensive experience in psychometrics, including IRT, CFA, and DIF, which aligns well with the job's requirements for assessment validation and customization. Her experience at TestGorilla in automated psychometric monitoring and AI evaluation further supports her capability to innovate in skill analysis. While the job requires fluency in Italian, which is not mentioned in her CV, her overall domain expertise and technical skills make her a compelling candidate."
+      },
+      "deepseek-r1:8b": {
+        "score": 75,
+        "verdict": "Apply",
+        "summary": "Strong fit due to direct psychometrics expertise (IRT, CFA/SEM, DIF) and AI evaluation experience (validating AI systems, construct validity). However, lacks explicit experience in client relationship management and report/dashboard creation, and the required Italian fluency is unknown."
+      }
+    }
+  },
+  {
+    "jd_id": "sorare-marketing-graphic-designer",
+    "human_relevance": 0,
+    "v1_score": 0,
+    "scores": {
+      "gpt-4o": {
+        "score": 20,
+        "verdict": "Skip",
+        "summary": "The candidate, Olga Maslenkova, has a strong background in psychometrics and data science, with extensive experience in assessment development and AI evaluation. However, her expertise does not align with the graphic design domain required for the Marketing Graphic Designer role at Company_XX. The main gap is the lack of relevant design skills and experience in visual content creation, which are critical for this position."
+      },
+      "deepseek-r1:8b": {
+        "score": 20,
+        "verdict": "Skip",
+        "summary": "The candidate's expertise in psychometrics and data science is completely unrelated to the graphic design requirements, making this a mismatch."
+      }
+    }
+  },
+  {
+    "jd_id": "the_world_bank_consultant_agent_evaluation",
+    "human_relevance": 3,
+    "v1_score": 92,
+    "scores": {
+      "gpt-4o": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Olga Maslenkova is a strong fit for the Consultant-Agent Evaluation Specialist role, with extensive experience in psychometrics and AI evaluation, including AI scoring validation and construct validity for AI systems. Her expertise in designing evaluation frameworks and conducting bias and fairness audits aligns well with the job requirements. The main gap is potential familiarity with specific observability platforms, but her overall background and skills make her a strong candidate."
+      },
+      "deepseek-r1:8b": {
+        "score": 85,
+        "verdict": "Apply",
+        "summary": "Olga's extensive psychometrics and AI evaluation experience, including rubric design and automated pipeline development, strongly aligns with the core requirements of defining agent success criteria and building evaluation frameworks. The main gap is familiarity with specific observability platforms, though her domain expertise is highly relevant."
+      }
+    }
+  },
+  {
+    "jd_id": "unicef_people_culture_specialist",
+    "human_relevance": 2,
+    "v1_score": 72,
+    "scores": {
+      "gpt-4o": {
+        "score": 68,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova demonstrates strong domain expertise in psychometrics and AI evaluation, aligning with the role's focus on digital learning and talent development. Her technical skills in data analysis and AI evaluation are relevant, although her direct experience in Human Resources and Talent Development is limited. The main gap is in direct experience with human-centered design and instructional design, but her background in psychometrics and AI could bring valuable insights to the role."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "The candidate has relevant data analysis and psychometric assessment skills that could support talent development initiatives, but lacks direct HR/Talent Development experience and specific expertise in instructional design and learning platform management."
+      }
+    }
+  },
+  {
+    "jd_id": " Product_Growth_Analyst_wiris",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 64,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analysis, with substantial experience in SQL and Python, which are relevant to the role's data exploration needs. However, her experience is more aligned with psychometrics and assessment science rather than product growth analytics or SaaS environments. The main gap is the lack of direct experience with marketing data, growth analytics, and digital analytics tools like GA4 and Tableau, which are crucial for the Product Growth Analyst position."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "The candidate has relevant data analysis and dashboarding skills (Python, SQL, Tableau) and experience with statistical modeling, which partially aligns with the product analytics requirements. However, the lack of direct experience in SaaS environments, B2B product growth, and marketing data analysis creates a significant domain gap."
+      }
+    }
+  },
+  {
+    "jd_id": "AI_Video_Editor_PARTNERS",
+    "human_relevance": 0,
+    "v1_score": 10,
+    "scores": {
+      "gpt-4o": {
+        "score": 30,
+        "verdict": "Skip",
+        "summary": "The candidate has strong expertise in psychometrics and assessment science, which does not align with the domain of video ad production for a DTC supplement brand. The key fit signal is the candidate's experience with AI tools, but the main gap is the lack of relevant experience in video editing and production, which is essential for the role."
+      },
+      "deepseek-r1:8b": {
+        "score": 58,
+        "verdict": "Skip",
+        "summary": "The candidate's AI evaluation and data skills show some relevance to the role's technical requirements, but their lack of experience in video editing and performance advertising creates a significant domain mismatch."
+      }
+    }
+  },
+  {
+    "jd_id": "Applied_AI_Engineer_Impress",
+    "human_relevance": 0,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 50,
+        "verdict": "Skip",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and assessment science, which does not align directly with the applied AI engineering role at Company_XX. While she has experience in AI evaluation and some relevant technical skills, her background lacks the specific experience in building production-grade AI agents and the required software engineering depth for this position."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "The candidate has relevant AI and data engineering skills (Python, SQL, data pipelines) and experience with validation and fairness, which partially align with the AI Engineer role. However, the focus on psychometrics and HR applications is a significant domain mismatch for healthcare AI workflows."
+      }
+    }
+  },
+  {
+    "jd_id": "Customer_success_specialist_CareWise",
+    "human_relevance": 0,
+    "v1_score": 35,
+    "scores": {
+      "gpt-4o": {
+        "score": 25,
+        "verdict": "Skip",
+        "summary": "Olga Maslenkova's expertise lies in psychometrics and assessment science, with a strong focus on data analysis and AI evaluation, which does not align with the customer success role in the social discovery space. Her background lacks direct experience in customer support, VIP user management, and conflict resolution, which are critical for the position."
+      },
+      "deepseek-r1:8b": {
+        "score": 55,
+        "verdict": "Consider",
+        "summary": "Olga's experience in handling sensitive cases and cross-functional communication shows some alignment, though her background is primarily in psychometrics and assessment development, not customer success."
+      }
+    }
+  },
+  {
+    "jd_id": "Data_Architect_Hanna_Robulets_Company",
+    "human_relevance": 0,
+    "v1_score": 35,
+    "scores": {
+      "gpt-4o": {
+        "score": 50,
+        "verdict": "Skip",
+        "summary": "Olga Maslenkova has a strong background in psychometrics and assessment science, with extensive experience in data analysis and psychometric tool development. However, the role requires specific expertise in data architecture, Azure, and Databricks, which are not highlighted in her profile. Her skills in psychometrics and assessment do not align with the core requirements of designing and scaling data platforms within a cloud-based environment."
+      },
+      "deepseek-r1:8b": {
+        "score": 25,
+        "verdict": "Skip",
+        "summary": "The candidate has relevant data skills (SQL, Python) but lacks the core requirements for Azure and Databricks expertise needed for enterprise-scale data architecture design."
+      }
+    }
+  },
+  {
+    "jd_id": "Digital_Learning_Applications_Schneider_Electric",
+    "human_relevance": 1,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 62,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analytics, aligning with the role's emphasis on data and AI-driven learning solutions. Her experience in leading large-scale assessment projects and developing automated monitoring systems is a key fit signal. However, the main gap lies in her limited direct experience with Learning Management Systems like Cornerstone OnDemand and specific HRIS systems, which are critical for this role."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "The candidate has relevant data science and psychometrics skills that align with the role's AI and learning analytics focus, but lacks direct experience with HRIS/LMS platforms and specific certifications required for the Learning Applications Expert role."
+      }
+    }
+  },
+  {
+    "jd_id": "QIT Software_data_scientist",
+    "human_relevance": 2,
+    "v1_score": 70,
+    "scores": {
+      "gpt-4o": {
+        "score": 78,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova's strong background in psychometrics and data analysis, along with proficiency in SQL, R, and Python, aligns well with the technical requirements of the role. Her experience in building automated data pipelines and working with large datasets is a key fit signal. However, the main gap is the lack of direct experience with Firebase data and Microsoft Fabric/Power BI, which are crucial for the position."
+      },
+      "deepseek-r1:8b": {
+        "score": 65,
+        "verdict": "Consider",
+        "summary": "Candidate has strong technical skills in SQL, Python, R, and Power BI, matching core requirements. However, lacks experience with Firebase data, a key requirement for the role."
+      }
+    }
+  },
+  {
+    "jd_id": "Senior_AI Engineer_MoveUp",
+    "human_relevance": 0,
+    "v1_score": 65,
+    "scores": {
+      "gpt-4o": {
+        "score": 58,
+        "verdict": "Consider",
+        "summary": "Olga Maslenkova has strong domain expertise in psychometrics and data analysis, with significant experience in AI evaluation and automation, which aligns partially with the AI Engineer role. However, there is a gap in direct experience with LLMs, TensorFlow/PyTorch, and deploying AI models in production, which are critical for this position. Her transition into people data science shows potential for skill transfer, but the core requirements in AI engineering are not fully met."
+      },
+      "deepseek-r1:8b": {
+        "score": 60,
+        "verdict": "Consider",
+        "summary": "The candidate has relevant experience with LLMs and data science, particularly in psychometrics and AI evaluation, but lacks direct experience in deploying AI solutions into production environments and MLOps, which are key requirements for the role."
+      }
+    }
+  }
+]

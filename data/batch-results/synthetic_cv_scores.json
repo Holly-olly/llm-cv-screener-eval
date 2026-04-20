@@ -1,0 +1,194 @@
+[
+  {
+    "jd_id": "maki_people_senior_psychometrician",
+    "human_relevance": 3,
+    "primary_score": 95,
+    "synthetic_score": 35,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate possesses strong research and stakeholder management skills, they lack the specialized psychometric expertise required, such as IRT, SEM, and advanced statistical modeling in R/Python. The role demands a Ph.D.-level scientific background in testing and assessment design, which is fundamentally misaligned with this candidate's focus on qualitative UX and product research."
+  },
+  {
+    "jd_id": "Accenture_Talent_Transformation_Manager",
+    "human_relevance": 2,
+    "primary_score": 72,
+    "synthetic_score": 55,
+    "synthetic_verdict": "Consider",
+    "synthetic_summary": "Alex possesses strong transferable skills in data analysis, stakeholder management, and research-driven strategy, which are highly relevant to the \"Skills-Based Organisation\" consulting approach. However, there is a notable gap in professional experience regarding large-scale corporate HR/Talent transformation, workforce planning, and managing enterprise-wide learning implementations."
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "human_relevance": 1,
+    "primary_score": 65,
+    "synthetic_score": 35,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While Alex is an expert in user research and data synthesis, they lack the specific technical requirements for this role, which demands deep expertise in HRIS (Workday), People Analytics, and data governance. There is no evidence of experience with HR systems, payroll/compensation data, or the advanced technical infrastructure (Workday Prism, Power BI) required to lead a People Analytics function."
+  },
+  {
+    "jd_id": "Atlantica Sustainable Infrastructure_Talent_Culture Analyst",
+    "human_relevance": 1,
+    "primary_score": 65,
+    "synthetic_score": 40,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate possesses strong research, data analysis, and stakeholder management skills, their experience is strictly focused on UX/product research rather than HR/People operations. There is a significant misalignment in domain expertise, as the role requires deep experience in talent acquisition frameworks, succession planning, and HRIS management, which are absent from the candidate's professional background."
+  },
+  {
+    "jd_id": "Canonical_talent_scientst",
+    "human_relevance": 2,
+    "primary_score": 85,
+    "synthetic_score": 65,
+    "synthetic_verdict": "Consider",
+    "synthetic_summary": "Alex possesses the required academic foundation in Psychology and extensive experience in behavioral research, interviewing, and data synthesis. However, the candidate lacks the explicit technical requirements for this specific role, such as proficiency in SQL, Python, and formal psychometric assessment interpretation, which are critical for Canonical's \"Talent Scientist\" function."
+  },
+  {
+    "jd_id": "Dandelion_Civilization_Psychometric Modeling_Analyst",
+    "human_relevance": 3,
+    "primary_score": 95,
+    "synthetic_score": 40,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate has a strong background in UX research and a degree in Psychology, they lack the specialized experience in psychometric modeling, statistical validation (factor analysis, regression), and HR analytics required for this role. Their expertise is focused on user-centered design and qualitative insights rather than the rigorous scientific development of predictive hiring assessments and talent risk models."
+  },
+  {
+    "jd_id": "DataAnnotation_Quantitative_Psychologist_AI_Trainer",
+    "human_relevance": 2,
+    "primary_score": 65,
+    "synthetic_score": 65,
+    "synthetic_verdict": "Consider",
+    "synthetic_summary": "Alex has a strong background in experimental design, hypothesis testing, and quantitative analysis, which directly aligns with the AI training requirements. However, the role necessitates more rigorous technical coding proficiency and advanced statistical modeling than is evidenced in their UX-focused CV, representing a notable gap in technical depth."
+  },
+  {
+    "jd_id": "G-Research_Insight_Analyst",
+    "human_relevance": 2,
+    "primary_score": 72,
+    "synthetic_score": 40,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate possesses strong communication and stakeholder management skills, the profile is heavily skewed toward qualitative UX research rather than the quantitative business and data analytics required here. The role demands technical proficiency in SQL, Python, and complex modelling (optimisation/simulation), for which Alex shows no evidence, representing a significant misalignment in core technical requirements."
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner ",
+    "human_relevance": 2,
+    "primary_score": 78,
+    "synthetic_score": 40,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate possesses strong analytical and research skills, this role is centered on \"People Analytics\" (HR/Workforce data) rather than UX research. The candidate lacks the required experience in HR systems (Workday), advanced statistical programming (R/Python), and business-focused workforce data modeling, representing a significant domain misalignment."
+  },
+  {
+    "jd_id": "LinkedIn_HR_Data_Engineer_People_Analytics ",
+    "human_relevance": 1,
+    "primary_score": 65,
+    "synthetic_score": 15,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "This candidate is a specialized UX Researcher with a background in qualitative user experience and design, whereas the role is a highly technical Data Engineering position. There is a complete misalignment in core requirements, as the candidate lacks the necessary database architecture, ETL development, and advanced engineering qualifications required for this HR Data Engineer role."
+  },
+  {
+    "jd_id": "Proofpoint_People_Data_Analyst",
+    "human_relevance": 2,
+    "primary_score": 70,
+    "synthetic_score": 40,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "Alex is a highly skilled UX Researcher but lacks the core technical requirements for this People Data Analyst role, specifically professional experience with Power BI, advanced HRIS reporting, and SQL. While there is a slight overlap in survey data analysis, the candidate's background is focused on product/customer insights rather than the HR/Workforce analytics required to succeed in this role."
+  },
+  {
+    "jd_id": "QIC_Digital_Hub_data_analyst",
+    "human_relevance": 1,
+    "primary_score": 65,
+    "synthetic_score": 35,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "This candidate is a specialized UX Researcher with a qualitative focus, whereas the role is a highly technical Senior Data Analyst position requiring advanced SQL, Python, and cloud data engineering skills. Alex lacks the essential quantitative infrastructure experience (SQL, Python, data modeling) needed to drive the unit economics and pricing strategies required for this role."
+  },
+  {
+    "jd_id": "angels-space-art-director",
+    "human_relevance": 0,
+    "primary_score": 45,
+    "synthetic_score": 40,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate possesses strong research, psychology, and behavioral analysis skills, they are a UX Researcher with no professional background in Art Direction or the adult creator economy. The role requires specific creative direction expertise and AI-driven visual prototyping which falls outside the candidate's core competency of product research."
+  },
+  {
+    "jd_id": "anglian-water-lead-systems-engineer",
+    "human_relevance": 0,
+    "primary_score": 20,
+    "synthetic_score": 15,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "There is a fundamental misalignment between the candidate’s profile and the role requirements; the candidate is a UX Researcher focusing on human-computer interaction, while the role is a highly technical Lead Systems Engineer position requiring expertise in infrastructure, networking, and industrial systems. The candidate lacks the necessary engineering background, system integration experience (APIs, MQTT, OT security), and technical qualifications required for this operational leadership role."
+  },
+  {
+    "jd_id": "bazaarvoice-provisioning-analyst",
+    "human_relevance": 0,
+    "primary_score": 35,
+    "synthetic_score": 35,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "This candidate is significantly overqualified for this operational, process-driven role, as their background is entirely focused on high-level UX Research. Furthermore, the candidate is based in London, and the role requires in-office attendance in Vilnius without relocation support or visa sponsorship, making them logistically ineligible."
+  },
+  {
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist ",
+    "human_relevance": 3,
+    "primary_score": 85,
+    "synthetic_score": 35,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate possesses strong research and communication skills, they are a UX Researcher specialized in product/customer behavior, whereas this role requires a Data Scientist specialized in HR/People Analytics. The candidate lacks the required advanced machine learning and predictive modeling expertise, as their technical background is focused on qualitative and descriptive user research metrics."
+  },
+  {
+    "jd_id": "codility_assessment_scientist",
+    "human_relevance": 3,
+    "primary_score": 92,
+    "synthetic_score": 55,
+    "synthetic_verdict": "Consider",
+    "synthetic_summary": "Alex is a strong researcher with excellent UX and SaaS experience, but they lack the specific academic background (M.S./Ph.D. in I/O Psychology) and formal experience in psychometric validation or adverse impact analysis required for this role. While their skills in data synthesis and product strategy are highly transferable to Codility's mission, the gap in specialized I/O assessment science and legal compliance expertise represents a significant hurdle for this specific \"Assessment Scientist\" position."
+  },
+  {
+    "jd_id": "freeplay_data_scientist",
+    "human_relevance": 2,
+    "primary_score": 55,
+    "synthetic_score": 20,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "This candidate is a specialized UX Researcher with no professional background in data science, machine learning, or predictive modeling. While they have basic familiarity with A/B testing and analytics tools, they lack the required technical stack (Python, SQL, ML frameworks) and the mobile gaming domain expertise necessary for this role."
+  },
+  {
+    "jd_id": "lightning-ai-frontend-engineer",
+    "human_relevance": 0,
+    "primary_score": 15,
+    "synthetic_score": 5,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "The candidate is a UX Researcher with no professional experience in software engineering, programming, or frontend development. There is a complete misalignment between the candidate’s skill set and the technical requirements of the Frontend Engineer role, which necessitates proficiency in React, TypeScript, and system architecture."
+  },
+  {
+    "jd_id": "meta_data_analyst",
+    "human_relevance": 2,
+    "primary_score": 85,
+    "synthetic_score": 40,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate possesses strong research and stakeholder communication skills, there is a significant misalignment with the technical requirements of the role. The candidate lacks the mandatory 3+ years of SQL, data modeling, and advanced data visualization (Tableau) experience required for this Data Analyst role, which is focused on People Analytics rather than UX."
+  },
+  {
+    "jd_id": "skillvue_people_scientist",
+    "human_relevance": 3,
+    "primary_score": 70,
+    "synthetic_score": 40,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "While the candidate has a strong background in UX research and a degree in Psychology, they lack the essential 3+ years of professional experience in psychometrics required for this role. Additionally, they do not meet the mandatory language requirement of Italian fluency, representing a significant misalignment with the core job criteria."
+  },
+  {
+    "jd_id": "sorare-marketing-graphic-designer",
+    "human_relevance": 0,
+    "primary_score": 0,
+    "synthetic_score": 10,
+    "synthetic_verdict": "Skip",
+    "synthetic_summary": "This candidate is a highly specialized UX Researcher, while the role requires a Graphic Designer. There is no evidence of visual design expertise, Adobe Creative Suite mastery, or the artistic portfolio required for the marketing-focused position."
+  },
+  {
+    "jd_id": "the_world_bank_consultant_agent_evaluation",
+    "human_relevance": 3,
+    "primary_score": 92,
+    "synthetic_score": 62,
+    "synthetic_verdict": "Consider",
+    "synthetic_summary": "Alex has a strong foundation in research design, qualitative synthesis, and psychometrics, which directly translates to designing evaluation rubrics for AI agents. However, there is a notable gap in technical experience with LLM evaluation stacks (e.g., LangSmith, LLM-as-a-judge pipelines) and specific AI/ML system testing, which would require a steep learning curve for this role."
+  },
+  {
+    "jd_id": "unicef_people_culture_specialist",
+    "human_relevance": 2,
+    "primary_score": 72,
+    "synthetic_score": 55,
+    "synthetic_verdict": "Consider",
+    "synthetic_summary": "The candidate has strong transferable skills in human-centered design, stakeholder management, and data-driven insight generation, which align well with the role's methodology requirements. However, there is a notable gap in direct experience within HR, Learning & Development, or organizational capacity building, which are the core functional domains for this UNICEF position."
+  }
+]

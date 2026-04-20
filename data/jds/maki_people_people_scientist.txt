@@ -1,0 +1,78 @@
+Maki People — People Scientist
+
+About the job
+About The Science Team
+
+At the heart of Maki People, the Science team is shaping the future of hiring through innovation, rigour, and collaboration. Led by our Head of Science, Aiden Loe, and working closely with our COO, Paul-Louis Caylar, this team drives the development of high-quality content that sets our platform apart.
+
+We don't just create and validate assessments—we innovate. Our work spans:
+
+Expanding a cutting-edge library of tests and tools. 
+Designing bespoke activities and experiences for clients. 
+Evaluating and refining AI-driven scoring algorithms and large language models (LLMs) to ensure fairness, accuracy, and transparency. 
+Leveraging psychometric expertise to build reliable, valid, and impactful assessments. 
+Developing tools that analyze candidate and job data to predict performance and potential with precision. 
+Supporting clients in using assessment data to optimize their workforce strategies, from talent acquisition to development and retention. 
+Leading original studies to explore emerging psychological and technological trends and sharing insights through publications, presentations, and client reports. 
+Collaborating with regulatory bodies and industry leaders to establish new standards in ethical AI use and hiring practices. 
+Equipping internal teams and clients with the knowledge and skills needed to understand and apply psychological and AI-driven insights effectively. 
+
+As Maki continues to grow, the Science team is central to understanding user experiences, refining assessments, and driving broader adoption—all while upholding the highest scientific standards.
+
+About The Role
+
+The People Scientist works at the intersection of psychometrics, AI, and research, ensuring that Maki's automated scoring systems are scientifically robust, fair, and continuously improving.
+
+Selection & Evaluation of AI & Psychometric Models
+Assess the statistical accuracy and reliability of LLMs used for automated scoring (e.g., structured grid methods; job-specific skills; multi-lingual proficiency tests - written and spoken). 
+Compare and validate STT/TTS models and assess their downstream impact on candidate scores. 
+Continuously identify and evaluate emerging LLM, STT, and TTS models to optimise scoring precision and efficiency. 
+Evaluate and calibrate psychometric models (e.g., CTT, IRT, CFA) to ensure the scientific validity and comparability of AI-scored assessments across populations and test forms. 
+
+Human-AI Comparison & Hybrid Evaluation Models
+Design research comparing AI-scored assessments with expert human judgments to ensure validity and alignment. 
+Benchmark semantic and embedding models (e.g., BERT, GPT-4, MPNet, DeepSeek) for diverse assessment types. 
+Develop hybrid scoring pipelines combining human oversight and AI-driven analytics. 
+
+Bias & Fairness Analysis
+Detect and analyse potential biases in AI-generated or psychometric scores across demographic groups. 
+Apply fairness and bias-mitigation techniques (e.g., reweighting, calibration, subgroup analysis) while maintaining model performance integrity. 
+Contribute to internal fairness dashboards and compliance documentation, supporting transparent model governance. 
+Continuously evaluate model generalisability and fairness to ensure all predictive algorithms adhere to ethical and scientific standards. 
+
+Predictive Analytics & Performance Insights
+Work with large-scale assessment and performance datasets to model relationships between candidate scores, job performance, and retention outcomes. 
+Develop and test predictive models that estimate success probabilities or identify key behavioural and linguistic predictors of performance. 
+Collaborate with data science, implementation and customer success teams to translate insights into actionable recommendations for clients and internal stakeholders. 
+
+Ongoing Model Monitoring & Issue Resolution
+Investigate anomalies raised by clients or internal QA. 
+Conduct diagnostic analyses and recommend evidence-based improvements. 
+
+Technical Research Combining AI & Psychometrics
+Explore fine-tuning, prompt-engineering, and evaluation methods to enhance model performance. 
+Translate technical findings into actionable insights for non-technical stakeholders. 
+Prepare and disseminate research through internal reports, publications, or conferences. 
+
+Eventually as one of the early employee of MakiPeople, you'll be be able to shape the future of the team. We share as much ownership on the way we work and on the product itself as we can as we're convinced our success is 99% due to our team.
+
+Our Ideal Candidate
+
+Advanced degree (PhD/MSc) in Data Science, Machine Learning, Psychometrics, Computational Linguistics, or Psychology. 
+Proven expertise in AI model evaluation, psychometric validation, and statistical analysis. 
+Basic knowledge of psychometric modelling (e.g., IRT, CFA, CAT) and its application in assessment design and validation. 
+Familiarity with LLMs and NLP techniques used for automated assessment and scoring. 
+Experience applying fairness and bias testing methodologies in AI-driven decisions. 
+Skilled in validation research ensuring reliability, construct validity, and practical relevance of assessments. 
+Proficiency in Python or R and experience with statistical software (e.g., SPSS, Mplus, JASP) and cloud databases (e.g., BigQuery). 
+Strong grounding in ethical AI, data governance, and compliance. 
+Experienced in collaborating across teams (engineering, product, content) and communicating insights clearly to both scientific and business audiences. 
+Skilled in data visualisation and research writing, with a track record of publications or applied studies. 
+
+Application Process
+Stage 1 - Screening assessment (20 mins)
+Stage 2 - Hiring manager interview (45 min)
+Stage 3 - Power skill assessment with our AI agent (15 min)
+Stage 4 - Executive interview (45 min)
+Stage 5 - Deep-dive technical interview (60 min)
+Stage 6 - Interview with Co-founder (30 min)

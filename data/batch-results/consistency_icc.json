@@ -1,0 +1,57 @@
+[
+  {
+    "jd_id": "codility_assessment_scientist",
+    "human_relevance": 3,
+    "scores": [
+      92,
+      92
+    ],
+    "mean": 92.0,
+    "sd": 0.0,
+    "max_diff": 0
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner",
+    "human_relevance": 2,
+    "scores": [
+      72,
+      82
+    ],
+    "mean": 77.0,
+    "sd": 5.0,
+    "max_diff": 10
+  },
+  {
+    "jd_id": "freeplay_data_scientist",
+    "human_relevance": 2,
+    "scores": [
+      45,
+      55
+    ],
+    "mean": 50.0,
+    "sd": 5.0,
+    "max_diff": 10
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "human_relevance": 1,
+    "scores": [
+      65,
+      55
+    ],
+    "mean": 60.0,
+    "sd": 5.0,
+    "max_diff": 10
+  },
+  {
+    "jd_id": "sorare-marketing-graphic-designer",
+    "human_relevance": 0,
+    "scores": [
+      5,
+      0
+    ],
+    "mean": 2.5,
+    "sd": 2.5,
+    "max_diff": 5
+  }
+]

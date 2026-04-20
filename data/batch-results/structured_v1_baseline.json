@@ -1,0 +1,453 @@
+[
+  {
+    "jd_id": "maki_people_senior_psychometrician",
+    "human_relevance": 3,
+    "llm_v1_score": 95,
+    "structured_score": 86.67,
+    "skills_score": 66.7,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "2/3 required skills match",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [
+      "Python",
+      "Go"
+    ],
+    "skills_missing": [
+      "Machine Learning"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "Accenture_Talent_Transformation_Manager",
+    "human_relevance": 2,
+    "llm_v1_score": 72,
+    "structured_score": 60.0,
+    "skills_score": 0.0,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "0/1 required skills match",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [],
+    "skills_missing": [
+      "Data Analysis"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "human_relevance": 1,
+    "llm_v1_score": 65,
+    "structured_score": 71.25,
+    "skills_score": 50.0,
+    "seniority_score": 75.0,
+    "location_score": 100.0,
+    "skills_detail": "1/2 required skills match",
+    "seniority_detail": "Lead/Principal role, Executive candidate",
+    "location_detail": "on-site role",
+    "skills_matched": [
+      "Go"
+    ],
+    "skills_missing": [
+      "Data Analysis"
+    ],
+    "jd_mode": "on-site"
+  },
+  {
+    "jd_id": "Atlantica Sustainable Infrastructure_Talent_Culture Analyst",
+    "human_relevance": 1,
+    "llm_v1_score": 65,
+    "structured_score": 91.25,
+    "skills_score": 100.0,
+    "seniority_score": 75.0,
+    "location_score": 100.0,
+    "skills_detail": "1/1 required skills match",
+    "seniority_detail": "Lead/Principal role, Executive candidate",
+    "location_detail": "on-site role",
+    "skills_matched": [
+      "Go"
+    ],
+    "skills_missing": [],
+    "jd_mode": "on-site"
+  },
+  {
+    "jd_id": "Canonical_talent_scientst",
+    "human_relevance": 2,
+    "llm_v1_score": 85,
+    "structured_score": 66.5,
+    "skills_score": 60.0,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "3/5 required skills match",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [
+      "Python",
+      "SQL",
+      "Go"
+    ],
+    "skills_missing": [
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "Dandelion_Civilization_Psychometric Modeling_Analyst",
+    "human_relevance": 3,
+    "llm_v1_score": 95,
+    "structured_score": 80.0,
+    "skills_score": 50.0,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "1/2 required skills match",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [
+      "Python"
+    ],
+    "skills_missing": [
+      "Data Analysis"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "DataAnnotation_Quantitative_Psychologist_AI_Trainer",
+    "human_relevance": 2,
+    "llm_v1_score": 65,
+    "structured_score": 33.0,
+    "skills_score": 20.0,
+    "seniority_score": 0,
+    "location_score": 100.0,
+    "skills_detail": "1/5 required skills match",
+    "seniority_detail": "Junior/Entry-level role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [
+      "Go"
+    ],
+    "skills_missing": [
+      "AWS",
+      "GCP",
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "G-Research_Insight_Analyst",
+    "human_relevance": 2,
+    "llm_v1_score": 72,
+    "structured_score": 69.17,
+    "skills_score": 66.7,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "2/3 required skills match",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [
+      "Python",
+      "SQL"
+    ],
+    "skills_missing": [
+      "Data Analysis"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner ",
+    "human_relevance": 2,
+    "llm_v1_score": 78,
+    "structured_score": 69.17,
+    "skills_score": 66.7,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "2/3 required skills match",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "on-site role",
+    "skills_matched": [
+      "Python",
+      "Go"
+    ],
+    "skills_missing": [
+      "Data Analysis"
+    ],
+    "jd_mode": "on-site"
+  },
+  {
+    "jd_id": "LinkedIn_HR_Data_Engineer_People_Analytics ",
+    "human_relevance": 1,
+    "llm_v1_score": 65,
+    "structured_score": 77.14,
+    "skills_score": 42.9,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "3/7 required skills match",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [
+      "Python",
+      "SQL",
+      "Go"
+    ],
+    "skills_missing": [
+      "AWS",
+      "GCP",
+      "Azure",
+      "Data Analysis"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "Proofpoint_People_Data_Analyst",
+    "human_relevance": 2,
+    "llm_v1_score": 70,
+    "structured_score": 69.17,
+    "skills_score": 66.7,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "2/3 required skills match",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [
+      "SQL",
+      "Go"
+    ],
+    "skills_missing": [
+      "Data Analysis"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "QIC_Digital_Hub_data_analyst",
+    "human_relevance": 1,
+    "llm_v1_score": 65,
+    "structured_score": 69.17,
+    "skills_score": 66.7,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "2/3 required skills match",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [
+      "Python",
+      "SQL"
+    ],
+    "skills_missing": [
+      "GCP"
+    ],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "angels-space-art-director",
+    "human_relevance": 0,
+    "llm_v1_score": 45,
+    "structured_score": 100.0,
+    "skills_score": 100.0,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "No specific skills required in JD",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [],
+    "skills_missing": [],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "anglian-water-lead-systems-engineer",
+    "human_relevance": 0,
+    "llm_v1_score": 20,
+    "structured_score": 82.5,
+    "skills_score": 100.0,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "No specific skills required in JD",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [],
+    "skills_missing": [],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "bazaarvoice-provisioning-analyst",
+    "human_relevance": 0,
+    "llm_v1_score": 35,
+    "structured_score": 82.5,
+    "skills_score": 100.0,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "No specific skills required in JD",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [],
+    "skills_missing": [],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist ",
+    "human_relevance": 3,
+    "llm_v1_score": 85,
+    "structured_score": 73.33,
+    "skills_score": 33.3,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "1/3 required skills match",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [
+      "Go"
+    ],
+    "skills_missing": [
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "codility_assessment_scientist",
+    "human_relevance": 3,
+    "llm_v1_score": 92,
+    "structured_score": 91.25,
+    "skills_score": 100.0,
+    "seniority_score": 75.0,
+    "location_score": 100.0,
+    "skills_detail": "2/2 required skills match",
+    "seniority_detail": "Lead/Principal role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [
+      "Python",
+      "Go"
+    ],
+    "skills_missing": [],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "freeplay_data_scientist",
+    "human_relevance": 2,
+    "llm_v1_score": 55,
+    "structured_score": 53.75,
+    "skills_score": 50.0,
+    "seniority_score": 25.0,
+    "location_score": 100.0,
+    "skills_detail": "2/4 required skills match",
+    "seniority_detail": "Mid-level role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [
+      "Python",
+      "SQL"
+    ],
+    "skills_missing": [
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "lightning-ai-frontend-engineer",
+    "human_relevance": 0,
+    "llm_v1_score": 15,
+    "structured_score": 70.0,
+    "skills_score": 25.0,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "1/4 required skills match",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [
+      "TypeScript"
+    ],
+    "skills_missing": [
+      "JavaScript",
+      "React",
+      "Machine Learning"
+    ],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "meta_data_analyst",
+    "human_relevance": 2,
+    "llm_v1_score": 85,
+    "structured_score": 66.5,
+    "skills_score": 60.0,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "3/5 required skills match",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [
+      "Python",
+      "SQL",
+      "Go"
+    ],
+    "skills_missing": [
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "skillvue_people_scientist",
+    "human_relevance": 3,
+    "llm_v1_score": 70,
+    "structured_score": 73.75,
+    "skills_score": 100.0,
+    "seniority_score": 25.0,
+    "location_score": 100.0,
+    "skills_detail": "No specific skills required in JD",
+    "seniority_detail": "Mid-level role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [],
+    "skills_missing": [],
+    "jd_mode": "hybrid"
+  },
+  {
+    "jd_id": "sorare-marketing-graphic-designer",
+    "human_relevance": 0,
+    "llm_v1_score": 0,
+    "structured_score": 100.0,
+    "skills_score": 100.0,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "1/1 required skills match",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [
+      "Go"
+    ],
+    "skills_missing": [],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "the_world_bank_consultant_agent_evaluation",
+    "human_relevance": 3,
+    "llm_v1_score": 92,
+    "structured_score": 42.5,
+    "skills_score": 0.0,
+    "seniority_score": 50.0,
+    "location_score": 100.0,
+    "skills_detail": "0/1 required skills match",
+    "seniority_detail": "Senior role, Executive candidate",
+    "location_detail": "remote role",
+    "skills_matched": [],
+    "skills_missing": [
+      "Machine Learning"
+    ],
+    "jd_mode": "remote"
+  },
+  {
+    "jd_id": "unicef_people_culture_specialist",
+    "human_relevance": 2,
+    "llm_v1_score": 72,
+    "structured_score": 100.0,
+    "skills_score": 100.0,
+    "seniority_score": 100.0,
+    "location_score": 100.0,
+    "skills_detail": "No specific skills required in JD",
+    "seniority_detail": "Executive role, Executive candidate",
+    "location_detail": "hybrid role",
+    "skills_matched": [],
+    "skills_missing": [],
+    "jd_mode": "hybrid"
+  }
+]

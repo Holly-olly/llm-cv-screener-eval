@@ -1,0 +1,209 @@
+[
+  {
+    "jd_id": "Accenture_Talent_Transformation_Manager",
+    "human_relevance": 2,
+    "original_ai_score": 72,
+    "primary_score": 68,
+    "paraphrased_score": 72,
+    "diff": 4,
+    "stable": true
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "human_relevance": 1,
+    "original_ai_score": 65,
+    "primary_score": 65,
+    "paraphrased_score": 65,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "Atlantica Sustainable Infrastructure_Talent_Culture Analyst",
+    "human_relevance": 1,
+    "original_ai_score": 65,
+    "primary_score": 65,
+    "paraphrased_score": 85,
+    "diff": 20,
+    "stable": false
+  },
+  {
+    "jd_id": "Canonical_talent_scientst",
+    "human_relevance": 2,
+    "original_ai_score": 85,
+    "primary_score": 90,
+    "paraphrased_score": 85,
+    "diff": 5,
+    "stable": true
+  },
+  {
+    "jd_id": "Dandelion_Civilization_Psychometric Modeling_Analyst",
+    "human_relevance": 3,
+    "original_ai_score": 95,
+    "primary_score": 95,
+    "paraphrased_score": 95,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "DataAnnotation_Quantitative_Psychologist_AI_Trainer",
+    "human_relevance": 2,
+    "original_ai_score": 65,
+    "primary_score": 65,
+    "paraphrased_score": 65,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "G-Research_Insight_Analyst",
+    "human_relevance": 2,
+    "original_ai_score": 72,
+    "primary_score": 72,
+    "paraphrased_score": 72,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner ",
+    "human_relevance": 2,
+    "original_ai_score": 78,
+    "primary_score": 72,
+    "paraphrased_score": 72,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "LinkedIn_HR_Data_Engineer_People_Analytics ",
+    "human_relevance": 1,
+    "original_ai_score": 65,
+    "primary_score": 68,
+    "paraphrased_score": 78,
+    "diff": 10,
+    "stable": false
+  },
+  {
+    "jd_id": "Proofpoint_People_Data_Analyst",
+    "human_relevance": 2,
+    "original_ai_score": 70,
+    "primary_score": 65,
+    "paraphrased_score": 85,
+    "diff": 20,
+    "stable": false
+  },
+  {
+    "jd_id": "QIC_Digital_Hub_data_analyst",
+    "human_relevance": 1,
+    "original_ai_score": 65,
+    "primary_score": 65,
+    "paraphrased_score": 72,
+    "diff": 7,
+    "stable": false
+  },
+  {
+    "jd_id": "angels-space-art-director",
+    "human_relevance": 0,
+    "original_ai_score": 45,
+    "primary_score": 40,
+    "paraphrased_score": 40,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "anglian-water-lead-systems-engineer",
+    "human_relevance": 0,
+    "original_ai_score": 20,
+    "primary_score": 20,
+    "paraphrased_score": 20,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "bazaarvoice-provisioning-analyst",
+    "human_relevance": 0,
+    "original_ai_score": 35,
+    "primary_score": 35,
+    "paraphrased_score": 35,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist ",
+    "human_relevance": 3,
+    "original_ai_score": 85,
+    "primary_score": 85,
+    "paraphrased_score": 95,
+    "diff": 10,
+    "stable": false
+  },
+  {
+    "jd_id": "codility_assessment_scientist",
+    "human_relevance": 3,
+    "original_ai_score": 92,
+    "primary_score": 95,
+    "paraphrased_score": 95,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "freeplay_data_scientist",
+    "human_relevance": 2,
+    "original_ai_score": 55,
+    "primary_score": 55,
+    "paraphrased_score": 65,
+    "diff": 10,
+    "stable": false
+  },
+  {
+    "jd_id": "lightning-ai-frontend-engineer",
+    "human_relevance": 0,
+    "original_ai_score": 15,
+    "primary_score": 10,
+    "paraphrased_score": 15,
+    "diff": 5,
+    "stable": true
+  },
+  {
+    "jd_id": "meta_data_analyst",
+    "human_relevance": 2,
+    "original_ai_score": 85,
+    "primary_score": 85,
+    "paraphrased_score": 92,
+    "diff": 7,
+    "stable": false
+  },
+  {
+    "jd_id": "skillvue_people_scientist",
+    "human_relevance": 3,
+    "original_ai_score": 70,
+    "primary_score": 65,
+    "paraphrased_score": 65,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "sorare-marketing-graphic-designer",
+    "human_relevance": 0,
+    "original_ai_score": 0,
+    "primary_score": 0,
+    "paraphrased_score": 0,
+    "diff": 0,
+    "stable": true
+  },
+  {
+    "jd_id": "the_world_bank_consultant_agent_evaluation",
+    "human_relevance": 3,
+    "original_ai_score": 92,
+    "primary_score": 92,
+    "paraphrased_score": 88,
+    "diff": 4,
+    "stable": true
+  },
+  {
+    "jd_id": "unicef_people_culture_specialist",
+    "human_relevance": 2,
+    "original_ai_score": 72,
+    "primary_score": 78,
+    "paraphrased_score": 68,
+    "diff": 10,
+    "stable": false
+  }
+]

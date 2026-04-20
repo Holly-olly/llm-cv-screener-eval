@@ -1,0 +1,348 @@
+[
+  {
+    "jd_id": "maki_people_senior_psychometrician",
+    "company_names": [
+      "Maki People"
+    ],
+    "human_relevance": 3,
+    "score_orig": 95,
+    "score_m1": 96,
+    "score_m2": 96,
+    "score_mask_mean": 96.0,
+    "bias": 1.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.58
+  },
+  {
+    "jd_id": "Accenture_Talent_Transformation_Manager",
+    "company_names": [
+      "Accenture"
+    ],
+    "human_relevance": 2,
+    "score_orig": 72,
+    "score_m1": 72,
+    "score_m2": 72,
+    "score_mask_mean": 72.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "Arrive_People_Analytics_Lead",
+    "company_names": [
+      "Arrive"
+    ],
+    "human_relevance": 1,
+    "score_orig": 68,
+    "score_m1": 68,
+    "score_m2": 68,
+    "score_mask_mean": 68.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "Atlantica Sustainable Infrastructure_Talent_Culture Analyst",
+    "company_names": [
+      "Atlantica Sustainable Infrastructure",
+      "Atlantica"
+    ],
+    "human_relevance": 1,
+    "score_orig": 78,
+    "score_m1": 78,
+    "score_m2": 68,
+    "score_mask_mean": 73.0,
+    "bias": -5.0,
+    "mask_sd": 7.07,
+    "total_sd": 5.77
+  },
+  {
+    "jd_id": "Canonical_talent_scientst",
+    "company_names": [
+      "Canonical"
+    ],
+    "human_relevance": 2,
+    "score_orig": 92,
+    "score_m1": 92,
+    "score_m2": 92,
+    "score_mask_mean": 92.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "Dandelion_Civilization_Psychometric Modeling_Analyst",
+    "company_names": [
+      "Dandelion Civilization"
+    ],
+    "human_relevance": 3,
+    "score_orig": 96,
+    "score_m1": 96,
+    "score_m2": 96,
+    "score_mask_mean": 96.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "DataAnnotation_Quantitative_Psychologist_AI_Trainer",
+    "company_names": [
+      "DataAnnotation"
+    ],
+    "human_relevance": 2,
+    "score_orig": 85,
+    "score_m1": 85,
+    "score_m2": 85,
+    "score_mask_mean": 85.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "G-Research_Insight_Analyst",
+    "company_names": [
+      "G-Research",
+      "G Research"
+    ],
+    "human_relevance": 2,
+    "score_orig": 68,
+    "score_m1": 68,
+    "score_m2": 72,
+    "score_mask_mean": 70.0,
+    "bias": 2.0,
+    "mask_sd": 2.83,
+    "total_sd": 2.31
+  },
+  {
+    "jd_id": "Johnson_Controls_People Insights_Partner ",
+    "company_names": [
+      "Johnson Controls"
+    ],
+    "human_relevance": 2,
+    "score_orig": 88,
+    "score_m1": 85,
+    "score_m2": 82,
+    "score_mask_mean": 83.5,
+    "bias": -4.5,
+    "mask_sd": 2.12,
+    "total_sd": 3.0
+  },
+  {
+    "jd_id": "LinkedIn_HR_Data_Engineer_People_Analytics ",
+    "company_names": [
+      "LinkedIn"
+    ],
+    "human_relevance": 1,
+    "score_orig": 68,
+    "score_m1": 72,
+    "score_m2": 72,
+    "score_mask_mean": 72.0,
+    "bias": 4.0,
+    "mask_sd": 0.0,
+    "total_sd": 2.31
+  },
+  {
+    "jd_id": "Proofpoint_People_Data_Analyst",
+    "company_names": [
+      "Proofpoint"
+    ],
+    "human_relevance": 2,
+    "score_orig": 72,
+    "score_m1": 78,
+    "score_m2": 78,
+    "score_mask_mean": 78.0,
+    "bias": 6.0,
+    "mask_sd": 0.0,
+    "total_sd": 3.46
+  },
+  {
+    "jd_id": "QIC_Digital_Hub_data_analyst",
+    "company_names": [
+      "QIC Digital Hub",
+      "QIC"
+    ],
+    "human_relevance": 1,
+    "score_orig": 62,
+    "score_m1": 68,
+    "score_m2": 68,
+    "score_mask_mean": 68.0,
+    "bias": 6.0,
+    "mask_sd": 0.0,
+    "total_sd": 3.46
+  },
+  {
+    "jd_id": "angels-space-art-director",
+    "company_names": [
+      "Angels.Space",
+      "Angels Space",
+      "Angels"
+    ],
+    "human_relevance": 0,
+    "score_orig": 22,
+    "score_m1": 25,
+    "score_m2": 28,
+    "score_mask_mean": 26.5,
+    "bias": 4.5,
+    "mask_sd": 2.12,
+    "total_sd": 3.0
+  },
+  {
+    "jd_id": "anglian-water-lead-systems-engineer",
+    "company_names": [
+      "Anglian Water Services",
+      "Anglian Water"
+    ],
+    "human_relevance": 0,
+    "score_orig": 25,
+    "score_m1": 15,
+    "score_m2": 15,
+    "score_mask_mean": 15.0,
+    "bias": -10.0,
+    "mask_sd": 0.0,
+    "total_sd": 5.77
+  },
+  {
+    "jd_id": "bazaarvoice-provisioning-analyst",
+    "company_names": [
+      "Bazaarvoice"
+    ],
+    "human_relevance": 0,
+    "score_orig": 35,
+    "score_m1": 35,
+    "score_m2": 35,
+    "score_mask_mean": 35.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "bpostgroup_People_Analytics_Data_Scientist ",
+    "company_names": [
+      "bpostgroup",
+      "bpost group",
+      "bpost"
+    ],
+    "human_relevance": 3,
+    "score_orig": 88,
+    "score_m1": 88,
+    "score_m2": 85,
+    "score_mask_mean": 86.5,
+    "bias": -1.5,
+    "mask_sd": 2.12,
+    "total_sd": 1.73
+  },
+  {
+    "jd_id": "codility_assessment_scientist",
+    "company_names": [
+      "Codility"
+    ],
+    "human_relevance": 3,
+    "score_orig": 94,
+    "score_m1": 92,
+    "score_m2": 94,
+    "score_mask_mean": 93.0,
+    "bias": -1.0,
+    "mask_sd": 1.41,
+    "total_sd": 1.15
+  },
+  {
+    "jd_id": "freeplay_data_scientist",
+    "company_names": [
+      "Freeplay"
+    ],
+    "human_relevance": 2,
+    "score_orig": 58,
+    "score_m1": 58,
+    "score_m2": 58,
+    "score_mask_mean": 58.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "lightning-ai-frontend-engineer",
+    "company_names": [
+      "Lightning AI",
+      "Lightning"
+    ],
+    "human_relevance": 0,
+    "score_orig": 15,
+    "score_m1": 15,
+    "score_m2": 15,
+    "score_mask_mean": 15.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "meta_data_analyst",
+    "company_names": [
+      "Meta"
+    ],
+    "human_relevance": 2,
+    "score_orig": 85,
+    "score_m1": 85,
+    "score_m2": 85,
+    "score_mask_mean": 85.0,
+    "bias": 0.0,
+    "mask_sd": 0.0,
+    "total_sd": 0.0
+  },
+  {
+    "jd_id": "skillvue_people_scientist",
+    "company_names": [
+      "Skillvue"
+    ],
+    "human_relevance": 3,
+    "score_orig": 88,
+    "score_m1": 68,
+    "score_m2": 68,
+    "score_mask_mean": 68.0,
+    "bias": -20.0,
+    "mask_sd": 0.0,
+    "total_sd": 11.55
+  },
+  {
+    "jd_id": "sorare-marketing-graphic-designer",
+    "company_names": [
+      "Sorare"
+    ],
+    "human_relevance": 0,
+    "score_orig": 5,
+    "score_m1": 10,
+    "score_m2": 5,
+    "score_mask_mean": 7.5,
+    "bias": 2.5,
+    "mask_sd": 3.54,
+    "total_sd": 2.89
+  },
+  {
+    "jd_id": "the_world_bank_consultant_agent_evaluation",
+    "company_names": [
+      "The World Bank",
+      "World Bank"
+    ],
+    "human_relevance": 3,
+    "score_orig": 92,
+    "score_m1": 88,
+    "score_m2": 92,
+    "score_mask_mean": 90.0,
+    "bias": -2.0,
+    "mask_sd": 2.83,
+    "total_sd": 2.31
+  },
+  {
+    "jd_id": "unicef_people_culture_specialist",
+    "company_names": [
+      "UNICEF"
+    ],
+    "human_relevance": 2,
+    "score_orig": 75,
+    "score_m1": 72,
+    "score_m2": 68,
+    "score_mask_mean": 70.0,
+    "bias": -5.0,
+    "mask_sd": 2.83,
+    "total_sd": 3.51
+  }
+]
