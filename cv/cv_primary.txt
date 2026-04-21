@@ -1,8 +1,6 @@
-Olga Maslenkova
+Anna Petrova
 Assessment Scientist  ·  Psychometrics · AI Evaluation · Data
-
-
-Valencia, Spain  ·  github.com/Holly-olly
+Barcelona, Spain  ·  github.com/[author]
 CORE SKILLS
 Psychometrics:  IRT (1PL/2PL/3PL, calibration, equating, linking) · CFA/SEM · EFA · DIF & adverse impact · CTT · norming · reliability
 AI evaluation:  AI scoring validation · human-in-the-loop frameworks · LLM item generation · bias & fairness audit · construct validity for AI systems
@@ -11,7 +9,7 @@ Research design:  Predictive validity studies · simulation modelling · multi-c
 EXPERIENCE
 Psychometric Scientist
 Jan 2024 – Jan 2026
-Company_AA ·  Remote · Valencia
+Company_AA ·  Remote 
 Co-led psychometric quality and monitoring of a large-scale, multi-language assessment library (350+ live assessments), transitioning processes from manual review to automated, production-grade analytics.
 Designed and implemented automated psychometric monitoring, enabling early detection of quality risks at scale.
 Built SQL-based data pipelines to convert raw product data into reusable psychometric metrics, integrated into the company data warehouse.

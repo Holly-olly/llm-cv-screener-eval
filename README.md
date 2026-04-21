@@ -32,7 +32,7 @@ The system produces stable scores but unreliable decisions — a critical failur
 
 If an LLM system is used to evaluate people:
 
-- unstable thresholds can lead to incorrect decisions  
+- fixed thresholds can produce incorrect decisions when scores concentrate at the boundary  
 - high consistency can mask systematic bias  
 - poor calibration makes scores hard to interpret  
 
@@ -111,6 +111,24 @@ The analysis covers two perspectives:
 
 > 📄 **Companion framework (in progress)**  
 A general framework for evaluating LLM-based decision systems operating on human data is being developed and will be added to this repository.
+
+---
+
+## Get Involved
+
+This project is ongoing. If you'd like to contribute or collaborate:
+
+- **Use the app and share outcomes** — Track B (predictive validity) is accumulating data. If you use Career Pilot and track whether applications led to interviews or offers, that data is directly useful. [Try the app →](https://cv-matcher-azure.vercel.app)
+- **SME review** — The current dataset uses a single annotator. A second independent rater for ICC calculation would strengthen the annotation study. Psychometrics or HR background helpful.
+- **Apply this methodology to your own tool or product** — if you're building or using an LLM-based system that evaluates people and want to understand its measurement properties, get in touch.
+
+Reach out: [olga.maslenkova@gmail.com](mailto:olga.maslenkova@gmail.com)
+
+---
+
+## Use
+
+Free to use for personal development, job searching, or research. If you find this useful, [buy me a coffee ☕](https://ko-fi.com/V7V11WRGZX).
 
 ---
 

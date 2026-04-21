@@ -84,7 +84,7 @@
     },
     "pairwise": {
       "better": "A",
-      "reason": "Summary A provides specific evidence of Olga's relevant skills and experience, highlighting her analytical rigor and ability to translate data into insights, while also addressing a potential gap in her experience, making it more actionable for the candidate.",
+      "reason": "Summary A provides specific evidence of Anna's relevant skills and experience, highlighting her analytical rigor and ability to translate data into insights, while also addressing a potential gap in her experience, making it more actionable for the candidate.",
       "actual_winner": "P1",
       "a_was": "P1"
     }
@@ -519,7 +519,7 @@
     },
     "pairwise": {
       "better": "B",
-      "reason": "Summary B provides a more detailed analysis of Olga's skills and the specific areas she needs to address to align with the job requirements, making it more actionable for her decision to apply.",
+      "reason": "Summary B provides a more detailed analysis of Anna's skills and the specific areas she needs to address to align with the job requirements, making it more actionable for her decision to apply.",
       "actual_winner": "P1",
       "a_was": "P2"
     }
@@ -564,7 +564,7 @@
     },
     "pairwise": {
       "better": "B",
-      "reason": "Summary B provides a clearer explanation of Olga's strengths and the specific gaps in her experience related to the job requirements, making it more actionable for her decision on whether to apply.",
+      "reason": "Summary B provides a clearer explanation of Anna's strengths and the specific gaps in her experience related to the job requirements, making it more actionable for her decision on whether to apply.",
       "actual_winner": "P1",
       "a_was": "P2"
     }
@@ -585,7 +585,7 @@
       "accuracy": 4,
       "specificity": 2,
       "usefulness": 3,
-      "comment": "The summary accurately identifies overqualification as a concern but lacks specific details about how Olga's skills do not align with the job requirements."
+      "comment": "The summary accurately identifies overqualification as a concern but lacks specific details about how Anna's skills do not align with the job requirements."
     },
     "pairwise": null
   },
@@ -625,7 +625,7 @@
       "accuracy": 3,
       "specificity": 3,
       "usefulness": 4,
-      "comment": "The summary identifies a gap in specific experience related to the job requirements, but it could provide more detail on how Olga's skills align with the company's values and mission."
+      "comment": "The summary identifies a gap in specific experience related to the job requirements, but it could provide more detail on how Anna's skills align with the company's values and mission."
     },
     "pairwise": {
       "better": "B",
@@ -650,7 +650,7 @@
       "accuracy": 4,
       "specificity": 3,
       "usefulness": 4,
-      "comment": "The summary accurately highlights Olga's strengths but lacks specific references to the required technical skills and tools mentioned in the job description."
+      "comment": "The summary accurately highlights Anna's strengths but lacks specific references to the required technical skills and tools mentioned in the job description."
     },
     "pairwise": null
   },

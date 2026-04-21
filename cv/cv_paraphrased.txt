@@ -1,6 +1,6 @@
-Olga Maslenkova
+Anna Petrova
 People Analytics · Data Analyst · HR Tech
-Valencia, Spain  ·  github.com/Holly-olly
+Barcelona, Spain  ·  github.com/[author]
 PROFILE
 Data analyst specialising in people and behavioural data with 10+ years of experience in HR tech and workforce analytics. At TestGorilla, built the data infrastructure and dashboards underpinning quality monitoring of 350+ assessments and designed the predictive analytics connecting assessment scores to real hiring outcomes. Strong in SQL, Python, and R across the full analysis pipeline: data extraction, statistical modelling, dashboard delivery, and stakeholder communication. Experience translating complex findings for product, engineering, and commercial teams.
 CORE SKILLS
@@ -11,7 +11,7 @@ Research methods:  Survey design (LimeSurvey API) · A/B thinking · DIF/subgrou
 EXPERIENCE
 Psychometric Scientist (People Analytics)
 Jan 2024 – Jan 2026
-Company_AA  ·  Remote · Valencia
+Company_AA  ·  Remote 
 Built automated people analytics monitoring system tracking 350+ assessments for reliability, bias signals, and quality drift; integrated into Snowflake/dbt data stack, reducing manual review by ~80%
 Designed SQL pipelines transforming raw candidate and assessment telemetry into structured workforce metrics; outputs consumed in Metabase/Holistics dashboards by HR, Product, and Commercial teams
 Led predictive validity study (n = 1,000+ candidates) connecting pre-employment assessment scores to post-hire outcomes; full pipeline from study design through automated data collection (LimeSurvey API + R) to modelling and stakeholder reporting
