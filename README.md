@@ -122,7 +122,7 @@ This project is ongoing. If you'd like to contribute or collaborate:
 - **SME review** — The current dataset uses a single annotator. A second independent rater for ICC calculation would strengthen the annotation study. Psychometrics or HR background helpful.
 - **Apply this methodology to your own tool or product** — if you're building or using an LLM-based system that evaluates people and want to understand its measurement properties, get in touch.
 
-Reach out: [olga.maslenkova@gmail.com](mailto:olga.maslenkova@gmail.com)
+Reach out: [olgamaslenkova@gmail.com](mailto:olgamaslenkova@gmail.com)
 
 ---
 
