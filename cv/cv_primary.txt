@@ -1,0 +1,59 @@
+Olga Maslenkova
+Assessment Scientist  ·  Psychometrics · AI Evaluation · Data
+
+
+Valencia, Spain  ·  github.com/Holly-olly
+CORE SKILLS
+Psychometrics:  IRT (1PL/2PL/3PL, calibration, equating, linking) · CFA/SEM · EFA · DIF & adverse impact · CTT · norming · reliability
+AI evaluation:  AI scoring validation · human-in-the-loop frameworks · LLM item generation · bias & fairness audit · construct validity for AI systems
+Data & tools:  SQL (Snowflake, dbt) · Python · R · Mplus · Winsteps · SPSS · LimeSurvey · API pipelines
+Research design:  Predictive validity studies · simulation modelling · multi-country/multi-language assessment · measurement invariance
+EXPERIENCE
+Psychometric Scientist
+Jan 2024 – Jan 2026
+Company_AA ·  Remote · Valencia
+Co-led psychometric quality and monitoring of a large-scale, multi-language assessment library (350+ live assessments), transitioning processes from manual review to automated, production-grade analytics.
+Designed and implemented automated psychometric monitoring, enabling early detection of quality risks at scale.
+Built SQL-based data pipelines to convert raw product data into reusable psychometric metrics, integrated into the company data warehouse.
+Contributed to psychometric evaluation and governance of AI-assisted assessment features, ensuring validity, fairness, and cross-form comparability.
+Developed predictive and simulation-based models to support norming, percentile scoring, and item-stat updates, reducing time and resource costs associated with item bank expansion and ongoing norm maintenance.
+Led end-to-end applied research, including a predictive validity study linking assessment scores to real hiring outcomes, with automated survey logic and data collection.
+Coordinated complex, cross-functional science initiatives, translating product and business needs into structured research, evidence-based decisions, and implementation-ready specifications across Science, Engineering, Product, and Commercial teams.
+
+Assessment Development Specialist
+Oct 2020 – May 2023
+Company_AB  ·  Remote · Moscow
+Led IRT-based psychometric development of 6+ commercial assessments measuring entrepreneurial potential, remote work readiness, safety behaviour, and cognitive ability
+Conducted IRT calibration, item fit analysis, and DIF analyses; prepared technical documentation and research reports for top-10 Russian companies
+Designed and validated entrepreneurial potential scale: literature-based construct definition, item bank development, pilot study, deployment in banking sector
+Developed mechanical reasoning cognitive assessment for factory workers: construct specification, SME management, pilot in industrial environment, norming, commercial launch
+Led predictive validity study for Arctic safety assessment validated against real incident data; demonstrated practical predictive power under data limitation constraints
+Supervised team of psychologists: oversaw item writing, pilot studies, IRT/CTT analyses, and technical documentation
+
+Education Consultant
+May 2014 – Sep 2017
+Company_AD  ·  Moscow
+Collected data, analyzed test results using CTT and IRT for localizing an assessment tool focused on measuring subject competencies of school students in the Tadjik and Kyrgyz languages. Prepared findings for adding the project to the SDG Action database of initiatives of the United Nations' Sustainable Development Goals (SDGs).
+Prepared and conducted a series of training webinars for over 300 teachers, with a focus on task development for elementary and middle school students. 
+Delivered training on the technology of localizing tests and questionnaires for CIS countries.
+
+Research Coordinator
+Sep 2012 – Nov 2019
+Company_AC ·  Moscow
+Coordinated assessment projects in a non-profit organization focused on international development in education, with an emphasis on aiding developing countries. 
+Conducted data collection, performed statistical analyses, carried out DIF analysis, and scored and equated test results for the longitudinal cross-country study "International Research of Student Achievements (IRSA)" across five Asian and European nations, involving more than 5,000 respondents. 
+Collaborated with subject-matter experts, organized pilot studies, collected and analyzed data, conducted IRT/CTT analysis, and managed equating and scoring.
+Coordinated a national education assessment in over 100 primary schools in Russia.
+Established a process for regular pilot studies of new test items in primary schools to expand the item bank.
+Utilized statistical software, including R, Stata, and Excel, for a wide range of statistical analyses, data processing, and quality control tasks.
+PORTFOLIO
+item-forge — LLM-based item generation pipeline with EFA + network psychometrics validation · github.com/Holly-olly/item-forge
+FEVS workforce analytics — Predicting employee engagement from 674,000 US federal employee survey responses. CFA measurement audit → XGBoost → SHAP → fairness audit· github.com/Holly-olly/fevs-workforce-analytics
+EDUCATION
+M.A. in Psychology — Measurements in Psychology and Education 
+National Research University Higher School of Economics, Moscow
+B.A. in Psychology 
+FSPI Military University, Moscow
+
+Additional training:  Population Modelling in International Large-Scale Assessment (IERI, Rome)  ·  User Experience Research & Design (University of Michigan)
+

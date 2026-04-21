@@ -17,7 +17,6 @@ data/batch-jobs/
 
 # Sensitive / not yet ready for publication
 docs/
-cv/
 data/jds/
 
 # Private / working files

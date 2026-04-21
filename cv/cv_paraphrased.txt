@@ -1,0 +1,50 @@
+Olga Maslenkova
+People Analytics · Data Analyst · HR Tech
+Valencia, Spain  ·  github.com/Holly-olly
+PROFILE
+Data analyst specialising in people and behavioural data with 10+ years of experience in HR tech and workforce analytics. At TestGorilla, built the data infrastructure and dashboards underpinning quality monitoring of 350+ assessments and designed the predictive analytics connecting assessment scores to real hiring outcomes. Strong in SQL, Python, and R across the full analysis pipeline: data extraction, statistical modelling, dashboard delivery, and stakeholder communication. Experience translating complex findings for product, engineering, and commercial teams.
+CORE SKILLS
+Analysis & modelling:  SQL (advanced · Snowflake · dbt) · Python (pandas · scikit-learn · SHAP) · R · statistical modelling · predictive analytics
+Visualisation & BI:  Metabase · Holistics · data storytelling for non-technical stakeholders
+People analytics:  Workforce data pipelines · candidate behaviour analysis · attrition modelling · fairness analysis · assessment quality metrics
+Research methods:  Survey design (LimeSurvey API) · A/B thinking · DIF/subgroup analysis · IRT · CFA
+EXPERIENCE
+Psychometric Scientist (People Analytics)
+Jan 2024 – Jan 2026
+Company_AA  ·  Remote · Valencia
+Built automated people analytics monitoring system tracking 350+ assessments for reliability, bias signals, and quality drift; integrated into Snowflake/dbt data stack, reducing manual review by ~80%
+Designed SQL pipelines transforming raw candidate and assessment telemetry into structured workforce metrics; outputs consumed in Metabase/Holistics dashboards by HR, Product, and Commercial teams
+Led predictive validity study (n = 1,000+ candidates) connecting pre-employment assessment scores to post-hire outcomes; full pipeline from study design through automated data collection (LimeSurvey API + R) to modelling and stakeholder reporting
+Conducted adverse impact analyses across gender, language, and nationality groups for regulatory compliance (EU/US jurisdictions); maintained fairness monitoring across full assessment library
+Analysed candidate behavioural data: time allocation, drop-off patterns, completion rates — identified UX and configuration issues affecting data quality; findings informed product roadmap
+Evaluated AI-assisted scoring and item generation features against validity and fairness criteria; defined acceptance thresholds and human-in-the-loop oversight frameworks
+
+Assessment Development Specialist 
+Oct 2020 – May 2023
+Company_AB  ·  Remote 
+Developed and validated 6+ commercial assessments using IRT and CTT analysis pipelines in R and Winsteps; prepared technical documentation for enterprise clients
+Led safety behaviour prediction project for Arctic industrial client: modelled psychometric scores against incident/violation records under real-world data constraints
+Built entrepreneurial potential scale: EFA + CFA validation, item bank development, pilot (n ≈ 200), deployment in banking sector
+
+
+Research Coordinator 
+Sep 2012 – Nov 2019
+Company_AC ·  Moscow
+Ran statistical analysis, DIF, equating, and scoring for longitudinal cross-country study (IRSA) — 5 nations, 5,000+ respondents — using R and Stata
+Coordinated national assessment across 100+ primary schools; managed item bank expansion pipeline with regular pilot studies
+Education Consultant 
+May 2014 – Sep 2017
+Company_AD  ·  Moscow
+Performed CTT and IRT analyses for localisation of school competency assessment tool (Tajik and Kyrgyz languages); prepared findings submitted to UN SDG Action database
+Designed and delivered training webinars for 300+ teachers on assessment task development
+PORTFOLIO
+FEVS workforce analytics — Predicting employee engagement from 674,000 US federal employee survey responses. CFA measurement audit → XGBoost → SHAP → fairness audit (fairlearn) · github.com/Holly-olly/fevs-workforce-analytics
+item-forge — LLM-based item generation pipeline with EFA + network psychometrics validation · github.com/Holly-olly/item-forge
+Career Pilot — Live people analytics app: AI CV×JD matching, job pipeline tracking, match scoring. · cv-matcher-azure.vercel.app
+EDUCATION
+M.A. in Psychology — Measurements in Psychology and Education 
+National Research University Higher School of Economics, Moscow
+B.A. in Psychology 
+FSPI Military University, Moscow
+
+Additional training:  Population Modelling in International Large-Scale Assessment (IERI, Rome)  ·  User Experience Research & Design (University of Michigan)
