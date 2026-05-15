@@ -1,0 +1,35 @@
+# ── Sensitive content (do not push) ──────────────────────────────────────────
+# CV files (include real personal data)
+data/
+
+# Folder explicitly flagged sensitive
+sensitive/
+
+# API keys and env files
+.env
+.env.local
+.env.*.local
+
+# ── Raw per-CV JSON outputs ──────────────────────────────────────────────────
+# The master CSVs already contain scores, verdicts and tokens; the JSONs add
+# LLM explanations that may quote CV text back. Keep them local for audit.
+results/level1*.json
+results/level2*.json
+
+# ── Standard Python / Jupyter / OS ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Editor metadata
+.vscode/
+.idea/
+
+

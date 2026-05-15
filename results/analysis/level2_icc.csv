@@ -1,0 +1,13 @@
+scenario,prompt,cv,metric,n_subjects,n_raters,value,ci_low,ci_high,icc_1,icc_1_ci_low,icc_1_ci_high,sem,sd,pct_unanimous,pct_majority,interpretation
+holistic_score_0-3 pooled,L2_P0,ALL,"ICC(A,k)",224,3,0.989,0.99,0.99,0.967,0.96,0.97,0.108,1.014,,,excellent
+holistic_score_0-3 per_cv,L2_P0,cv_primary,"ICC(A,k)",75,3,0.982,0.97,0.99,0.949,0.93,0.97,0.117,0.884,,,excellent
+holistic_score_0-3 per_cv,L2_P0,cv_hr,"ICC(A,k)",75,3,0.992,0.99,0.99,0.977,0.97,0.98,0.095,1.076,,,excellent
+holistic_score_0-3 per_cv,L2_P0,cv_engineer,"ICC(A,k)",74,3,0.984,0.98,0.99,0.954,0.93,0.97,0.111,0.88,,,excellent
+holistic_label pooled,L2_P0,ALL,Fleiss κ,224,3,0.905,,,,,,,,89.7,100.0,almost perfect
+holistic_label per_cv,L2_P0,cv_primary,Fleiss κ,75,3,0.883,,,,,,,,88.0,100.0,almost perfect
+holistic_label per_cv,L2_P0,cv_hr,Fleiss κ,75,3,0.921,,,,,,,,92.0,100.0,almost perfect
+holistic_label per_cv,L2_P0,cv_engineer,Fleiss κ,74,3,0.892,,,,,,,,89.2,100.0,almost perfect
+fit_score_100 pooled,L2_P0,ALL,"ICC(A,k)",224,3,0.989,0.99,0.99,0.968,0.96,0.97,2.809,26.912,,,excellent
+fit_score_100 per_cv,L2_P0,cv_primary,"ICC(A,k)",75,3,0.99,0.99,0.99,0.971,0.96,0.98,2.675,26.76,,,excellent
+fit_score_100 per_cv,L2_P0,cv_hr,"ICC(A,k)",75,3,0.995,0.99,1.0,0.984,0.98,0.99,1.948,26.838,,,excellent
+fit_score_100 per_cv,L2_P0,cv_engineer,"ICC(A,k)",74,3,0.974,0.96,0.98,0.926,0.89,0.95,3.603,22.332,,,excellent

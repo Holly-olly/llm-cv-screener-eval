@@ -1,0 +1,8 @@
+scale,prompt,metric,n,value,ci_low,ci_high,p_value,effect_size,interpretation
+holistic_score_0-3,L2_P0,Spearman ρ,32,0.869,0.75,0.93,0.0,,very strong
+holistic_score_0-3,L2_P0,Pearson r,32,0.839,0.69,0.92,0.0,,very strong
+holistic_score_0-3,L2_P0,Weighted κ,32,0.517,0.337,0.671,,,moderate
+holistic_score_0-3,L2_P0,Bias (LLM−human),32,0.594,0.406,0.782,0.0001,0.966,Cohen's d: large
+holistic_score_0-3,L2_P0,MAE,32,0.594,0.406,0.812,,,ordinal — interpret with caution
+holistic_score_0-3,L2_P0,% exact match,32,46.9,30.9,63.6,,,
+holistic_score_0-3,L2_P0,% within ±1,32,93.8,79.9,98.3,,,

@@ -1,0 +1,29 @@
+scenario,prompt,cv,metric,n_subjects,n_raters,value,ci_low,ci_high,icc_1,icc_1_ci_low,icc_1_ci_high,sem,sd,pct_unanimous,pct_majority,interpretation
+score_0-3 pooled,P0,ALL,"ICC(A,k)",96,3,0.984,0.98,0.99,0.953,0.94,0.97,0.124,0.98,,,excellent
+score_0-3 pooled,P1,ALL,"ICC(A,k)",96,3,0.99,0.99,0.99,0.971,0.96,0.98,0.097,0.976,,,excellent
+score_0-3 pooled,P2,ALL,"ICC(A,k)",228,3,0.995,0.99,1.0,0.984,0.98,0.99,0.07,0.966,,,excellent
+score_0-3 per_cv,P0,cv_primary,"ICC(A,k)",32,3,0.983,0.97,0.99,0.95,0.91,0.97,0.119,0.902,,,excellent
+score_0-3 per_cv,P0,cv_hr,"ICC(A,k)",32,3,0.98,0.96,0.99,0.943,0.9,0.97,0.119,0.845,,,excellent
+score_0-3 per_cv,P0,cv_engineer,"ICC(A,k)",32,3,0.95,0.91,0.97,0.865,0.77,0.93,0.137,0.616,,,excellent
+score_0-3 per_cv,P1,cv_primary,"ICC(A,k)",32,3,0.988,0.98,0.99,0.966,0.94,0.98,0.102,0.951,,,excellent
+score_0-3 per_cv,P1,cv_hr,"ICC(A,k)",32,3,0.989,0.98,0.99,0.969,0.94,0.98,0.083,0.807,,,excellent
+score_0-3 per_cv,P1,cv_engineer,"ICC(A,k)",32,3,0.971,0.95,0.98,0.918,0.86,0.96,0.104,0.611,,,excellent
+score_0-3 per_cv,P2,cv_primary,"ICC(A,k)",76,3,0.999,1.0,1.0,0.996,0.99,1.0,0.038,1.022,,,excellent
+score_0-3 per_cv,P2,cv_hr,"ICC(A,k)",76,3,0.997,1.0,1.0,0.991,0.99,0.99,0.054,0.972,,,excellent
+score_0-3 per_cv,P2,cv_engineer,"ICC(A,k)",76,3,0.98,0.97,0.99,0.942,0.92,0.96,0.103,0.722,,,excellent
+score_0-100 pooled,P2,ALL,"ICC(A,k)",228,3,0.997,1.0,1.0,0.992,0.99,0.99,1.355,25.739,,,excellent
+score_0-100 per_cv,P2,cv_primary,"ICC(A,k)",76,3,0.998,1.0,1.0,0.993,0.99,1.0,1.247,25.094,,,excellent
+score_0-100 per_cv,P2,cv_hr,"ICC(A,k)",76,3,0.998,1.0,1.0,0.993,0.99,1.0,1.299,26.754,,,excellent
+score_0-100 per_cv,P2,cv_engineer,"ICC(A,k)",76,3,0.995,0.99,1.0,0.984,0.98,0.99,1.499,20.262,,,excellent
+verdict pooled,P0,ALL,Fleiss κ,96,3,0.913,,,,,,,,93.8,100.0,almost perfect
+verdict pooled,P1,ALL,Fleiss κ,96,3,0.956,,,,,,,,96.9,100.0,almost perfect
+verdict pooled,P2,ALL,Fleiss κ,228,3,0.968,,,,,,,,98.2,100.0,almost perfect
+verdict per_cv,P0,cv_primary,Fleiss κ,32,3,0.901,,,,,,,,90.6,100.0,almost perfect
+verdict per_cv,P0,cv_hr,Fleiss κ,32,3,0.817,,,,,,,,90.6,100.0,almost perfect
+verdict per_cv,P0,cv_engineer,Fleiss κ,32,3,1.0,,,,,,,,100.0,100.0,almost perfect
+verdict per_cv,P1,cv_primary,Fleiss κ,32,3,0.936,,,,,,,,93.8,100.0,almost perfect
+verdict per_cv,P1,cv_hr,Fleiss κ,32,3,0.931,,,,,,,,96.9,100.0,almost perfect
+verdict per_cv,P1,cv_engineer,Fleiss κ,32,3,1.0,,,,,,,,100.0,100.0,almost perfect
+verdict per_cv,P2,cv_primary,Fleiss κ,76,3,1.0,,,,,,,,100.0,100.0,almost perfect
+verdict per_cv,P2,cv_hr,Fleiss κ,76,3,0.973,,,,,,,,98.7,100.0,almost perfect
+verdict per_cv,P2,cv_engineer,Fleiss κ,76,3,0.867,,,,,,,,96.1,100.0,almost perfect

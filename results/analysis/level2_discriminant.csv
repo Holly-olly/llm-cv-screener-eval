@@ -1,0 +1,46 @@
+subset,score_col,comparison,test,n,k,statistic,p_value,effect_size,effect_name,mean_diff,interpretation,sig_after_bonferroni,alpha_bonferroni,ci_low,ci_high,median
+main_32,holistic_score,all CVs,Friedman,32,3,28.02,0.0,0.438,Kendall's W,,medium,,,,,
+main_32,holistic_score,cv_primary − cv_hr,Wilcoxon,32,2,19.5,0.0001,0.88,Rank-biserial r,1.031,large,*,0.0083,,,
+main_32,holistic_score,cv_primary − cv_engineer,Wilcoxon,32,2,25.5,0.0,0.874,Rank-biserial r,1.281,large,*,0.0083,,,
+main_32,holistic_score,cv_hr − cv_engineer,Wilcoxon,32,2,79.0,0.3178,0.248,Rank-biserial r,0.25,small,,0.0083,,,
+main_32,holistic_score,cv_primary,Descriptive mean,32,1,1.969,,,,,,,,1.625,2.281,2.0
+main_32,holistic_score,cv_hr,Descriptive mean,32,1,0.938,,,,,,,,0.594,1.281,1.0
+main_32,holistic_score,cv_engineer,Descriptive mean,32,1,0.688,,,,,,,,0.469,0.906,1.0
+main_32,fit_score_100,all CVs,Friedman,32,3,20.906,0.0,0.327,Kendall's W,,medium,,,,,
+main_32,fit_score_100,cv_primary − cv_hr,Wilcoxon,32,2,12.0,0.0001,0.92,Rank-biserial r,29.019,large,*,0.0083,,,
+main_32,fit_score_100,cv_primary − cv_engineer,Wilcoxon,32,2,41.5,0.0001,0.822,Rank-biserial r,35.791,large,*,0.0083,,,
+main_32,fit_score_100,cv_hr − cv_engineer,Wilcoxon,32,2,97.5,0.3442,0.229,Rank-biserial r,6.772,small,,0.0083,,,
+main_32,fit_score_100,all CVs,RM-ANOVA,32,3,20.542,0.0,0.315,partial η²,,large,,,,,
+main_32,fit_score_100,cv_primary,Descriptive mean,32,1,56.538,,,,,,,,47.217,65.2,56.2
+main_32,fit_score_100,cv_hr,Descriptive mean,32,1,27.519,,,,,,,,19.393,36.038,19.0
+main_32,fit_score_100,cv_engineer,Descriptive mean,32,1,20.747,,,,,,,,15.281,26.271,19.0
+engineer_extra_25,holistic_score,all CVs,Friedman,25,3,35.224,0.0,0.704,Kendall's W,,large,,,,,
+engineer_extra_25,holistic_score,cv_primary − cv_hr,Wilcoxon,25,2,0.0,0.0,1.0,Rank-biserial r,1.0,large,*,0.0083,,,
+engineer_extra_25,holistic_score,cv_primary − cv_engineer,Wilcoxon,25,2,41.5,0.0221,-0.563,Rank-biserial r,-0.52,large,,0.0083,,,
+engineer_extra_25,holistic_score,cv_hr − cv_engineer,Wilcoxon,25,2,0.0,0.0,-1.0,Rank-biserial r,-1.52,large,*,0.0083,,,
+engineer_extra_25,holistic_score,cv_primary,Descriptive mean,25,1,1.12,,,,,,,,0.92,1.36,1.0
+engineer_extra_25,holistic_score,cv_hr,Descriptive mean,25,1,0.12,,,,,,,,0.0,0.28,0.0
+engineer_extra_25,holistic_score,cv_engineer,Descriptive mean,25,1,1.64,,,,,,,,1.28,1.961,2.0
+engineer_extra_25,fit_score_100,all CVs,Friedman,25,3,20.512,0.0,0.41,Kendall's W,,medium,,,,,
+engineer_extra_25,fit_score_100,cv_primary − cv_hr,Wilcoxon,25,2,12.0,0.0013,0.86,Rank-biserial r,17.952,large,*,0.0083,,,
+engineer_extra_25,fit_score_100,cv_primary − cv_engineer,Wilcoxon,25,2,72.0,0.0765,-0.431,Rank-biserial r,-12.152,medium,,0.0083,,,
+engineer_extra_25,fit_score_100,cv_hr − cv_engineer,Wilcoxon,25,2,0.0,0.0001,-1.0,Rank-biserial r,-30.104,large,*,0.0083,,,
+engineer_extra_25,fit_score_100,all CVs,RM-ANOVA,25,3,17.174,3.8e-05,0.294,partial η²,,large,,,,,
+engineer_extra_25,fit_score_100,cv_primary,Descriptive mean,25,1,30.672,,,,,,,,22.056,39.322,40.0
+engineer_extra_25,fit_score_100,cv_hr,Descriptive mean,25,1,12.72,,,,,,,,10.44,14.96,10.0
+engineer_extra_25,fit_score_100,cv_engineer,Descriptive mean,25,1,42.824,,,,,,,,33.504,52.128,56.2
+hr_extra_18,holistic_score,all CVs,Friedman,18,3,26.358,0.0,0.732,Kendall's W,,large,,,,,
+hr_extra_18,holistic_score,cv_primary − cv_hr,Wilcoxon,18,2,42.5,0.3015,-0.292,Rank-biserial r,-0.333,small,,0.0083,,,
+hr_extra_18,holistic_score,cv_primary − cv_engineer,Wilcoxon,18,2,0.0,0.0001,1.0,Rank-biserial r,1.556,large,*,0.0083,,,
+hr_extra_18,holistic_score,cv_hr − cv_engineer,Wilcoxon,18,2,0.0,0.0003,1.0,Rank-biserial r,1.889,large,*,0.0083,,,
+hr_extra_18,holistic_score,cv_primary,Descriptive mean,18,1,1.778,,,,,,,,1.444,2.167,2.0
+hr_extra_18,holistic_score,cv_hr,Descriptive mean,18,1,2.111,,,,,,,,1.778,2.444,2.0
+hr_extra_18,holistic_score,cv_engineer,Descriptive mean,18,1,0.222,,,,,,,,0.056,0.444,0.0
+hr_extra_18,fit_score_100,all CVs,Friedman,18,3,28.328,0.0,0.787,Kendall's W,,large,,,,,
+hr_extra_18,fit_score_100,cv_primary − cv_hr,Wilcoxon,18,2,31.0,0.1757,-0.41,Rank-biserial r,-8.478,medium,,0.0083,,,
+hr_extra_18,fit_score_100,cv_primary − cv_engineer,Wilcoxon,18,2,0.0,0.0002,1.0,Rank-biserial r,40.467,large,*,0.0083,,,
+hr_extra_18,fit_score_100,cv_hr − cv_engineer,Wilcoxon,18,2,0.0,0.0003,1.0,Rank-biserial r,48.944,large,*,0.0083,,,
+hr_extra_18,fit_score_100,all CVs,RM-ANOVA,18,3,38.185,0.0,0.619,partial η²,,large,,,,,
+hr_extra_18,fit_score_100,cv_primary,Descriptive mean,18,1,54.967,,,,,,,,46.144,64.468,49.0
+hr_extra_18,fit_score_100,cv_hr,Descriptive mean,18,1,63.444,,,,,,,,54.655,72.491,56.2
+hr_extra_18,fit_score_100,cv_engineer,Descriptive mean,18,1,14.5,,,,,,,,10.222,19.944,10.0
