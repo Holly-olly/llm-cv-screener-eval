@@ -106,9 +106,18 @@ Human-label comparison expanded to additional CV profiles is planned.
 
 ## Level 3: Structured Evaluation
 
-Design defined — results in progress.
+Job fit is computed through explicit segmentation, embedding-based similarity, and code-side aggregation — no LLM in the judgment step. Pipeline complete on **75 JDs × 3 CVs = 225 (CV, JD) pairs**; the Level-2 weighting formula is reused so the final 0–100 score sits on the same grid.
 
-Job fit is computed through explicit section extraction and embedding-based similarity rather than direct LLM judgment, using the same fixed-weight aggregation formula as Level 2.
+### What's done
+
+* **Segmentation + tagging.** Every JD and CV is split into content lines; each line gets one tag (skills, experience, education, other). Tagging is done by a small low-temperature LLM with a few-shot prompt and structured JSON output — labels are returned by `line_id`, the model never echoes the input text.
+* **Embedding.** Non-other segments are embedded with a sentence-transformer, mean-pooled and L2-normalised. CV embeddings are computed once per CV and cached.
+* **Per-construct similarity (MaxSim).** For every JD segment that contributes to a construct, we take its best cosine match against the CV's allowed segments and combine those best-matches via a weighted mean. `mixed` lines contribute weight 0.5 to both skills and experience to prevent double-counting.
+* **Aggregation.** Each block similarity is linear-adjust-normalised to [0, 1] against per-construct corpus anchors (synthetic floor and CV-mirroring ceiling, shrunk to 80 % of the anchor range). The Level-2 weighted formula `0.6 · skills + 0.3 · experience + 0.1 · education` is then applied by code → fit_score_0_100.
+
+### Status
+
+Pipeline complete. **Known issue under mitigation:** a few (CV, JD) pairs receive an inflated MaxSim block score on tiny JDs or mixed-heavy CV/JD combinations — fix in progress. Evaluation against human gold labels is pending.
 
 ---
 
@@ -146,7 +155,8 @@ The system is intentionally transparent: rubric, prompt, thresholds, and tempera
   [level_2_guided_evaluation.md](level_2_guided_evaluation.md)
 
 * **Level 3 — Structured**
-  Design and dataset documentation in progress
+  Design and dataset documentation in progress 
+  [level_3_structural_evaluation.md](level_3_structural_evaluation.md)
 
 ---
 

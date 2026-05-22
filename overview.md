@@ -290,6 +290,6 @@ Below are the main findings from Levels 1 and 2. Detailed tables, methodology an
 | ------------------------------- | --------------------------------------- |
 | Level 1 — Holistic evaluation   | Complete                                |
 | Level 2 — Guided evaluation     | Complete                           |
-| Level 3 — Structured evaluation | Dataset and methodology design complete |
+| Level 3 — Structured evaluation | Fit scores calculated; Human labeling in progress |
 | Predictive validity track       | Ongoing                                 |
 

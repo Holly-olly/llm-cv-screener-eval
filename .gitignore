@@ -16,6 +16,14 @@ sensitive/
 results/level1*.json
 results/level2*.json
 
+# ── Level 3 intermediates ───────────────────────────────────────────────────
+# Large or quote-back-prone artefacts. Master CSVs and the matrices needed
+# for downstream rendering stay tracked; the rest is local-only.
+results/level3/labelled/
+results/level3/llm_labelled_json/
+results/level3/llm_labelled_json_cv/
+results/level3/factor_analysis/
+
 # ── Standard Python / Jupyter / OS ───────────────────────────────────────────
 __pycache__/
 *.py[cod]

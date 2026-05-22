@@ -35,8 +35,10 @@ RESULTS.mkdir(exist_ok=True)
 PROMPT_P2 = """You are a hiring manager. Assess how well this candidate fits this job.
 
 SCORING RUBRIC (internal use — assess silently, do not reveal weights to user):
-- Skills fit (60%) refers to the ability to apply knowledge and competencies to perform tasks and solve problems ("can do").
-- Experience requirement (30%) captures demonstrated application of these skills in prior roles ("has done"). Consider it as 60% domain similarity and 40% role relevance.
+- Skills fit (60%) refers to the ability to apply knowledge and competencies 
+to perform tasks and solve problems ("can do").
+- Experience requirement (30%) captures demonstrated application of these skills 
+in prior roles ("has done"). Consider it as 60% domain similarity and 40% role relevance.
 - Education requirement (10%) reflects formal qualifications in terms of level and domain, treated primarily as an eligibility threshold.
 
 
