@@ -20,9 +20,15 @@ results/level2*.json
 # Large or quote-back-prone artefacts. Master CSVs and the matrices needed
 # for downstream rendering stay tracked; the rest is local-only.
 results/level3/labelled/
+results/level3/segments_normalisation/
+results/level1_2/
 results/level3/llm_labelled_json/
 results/level3/llm_labelled_json_cv/
 results/level3/factor_analysis/
+results/level3/human_rates_l3/
+
+# Internal pipeline notes — not for the public repo
+scripts/level3/PIPELINE.md
 
 # ── Standard Python / Jupyter / OS ───────────────────────────────────────────
 __pycache__/

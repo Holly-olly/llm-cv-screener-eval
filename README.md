@@ -106,18 +106,30 @@ Human-label comparison expanded to additional CV profiles is planned.
 
 ## Level 3: Structured Evaluation
 
-Job fit is computed through explicit segmentation, embedding-based similarity, and code-side aggregation — no LLM in the judgment step. Pipeline complete on **75 JDs × 3 CVs = 225 (CV, JD) pairs**; the Level-2 weighting formula is reused so the final 0–100 score sits on the same grid.
+> 🚧 **Editing in progress** — this section is a short procedural summary; numbers and validation will be expanded.
 
-### What's done
+Job fit is computed through explicit text structuring + embedding similarity — the LLM only *structures* the text, the judgment itself is deterministic. Run on **75 JDs × 3 CVs = 225 (CV, JD) pairs**.
 
-* **Segmentation + tagging.** Every JD and CV is split into content lines; each line gets one tag (skills, experience, education, other). Tagging is done by a small low-temperature LLM with a few-shot prompt and structured JSON output — labels are returned by `line_id`, the model never echoes the input text.
-* **Embedding.** Non-other segments are embedded with a sentence-transformer, mean-pooled and L2-normalised. CV embeddings are computed once per CV and cached.
-* **Per-construct similarity (MaxSim).** For every JD segment that contributes to a construct, we take its best cosine match against the CV's allowed segments and combine those best-matches via a weighted mean. `mixed` lines contribute weight 0.5 to both skills and experience to prevent double-counting.
-* **Aggregation.** Each block similarity is linear-adjust-normalised to [0, 1] against per-construct corpus anchors (synthetic floor and CV-mirroring ceiling, shrunk to 80 % of the anchor range). The Level-2 weighted formula `0.6 · skills + 0.3 · experience + 0.1 · education` is then applied by code → fit_score_0_100.
+### Pipeline (procedural)
+
+1. **Segment + tag** — an LLM splits each JD and CV into lines and tags every line `skills / experience / education / mixed / other` (labels by `line_id`, no text echoed). `other` is dropped.
+2. **Normalise** — a second LLM pass turns each segment into canonical **skill / experience** labels; education is reduced to one degree level (CV: highest held, JD: minimum required).
+3. **Embed** — all skill labels of a document → one vector; all experience labels → one vector (`all-MiniLM-L6-v2`, L2-normalised). Education is not embedded.
+4. **Per-pair similarity** — cosine of the skills vectors and of the experience vectors for each (CV, JD) pair.
+5. **Education match** — discrete: no requirement → pass; else the CV degree must reach the JD's required level.
+6. **Transform to 0–100** — fixed anchor-linear rescale `clip((cos − 0.30)/(0.80 − 0.30), 0, 1) × 100` (0.30 / 0.80 = off-domain floor / CV-mirroring ceiling anchors), then the Level-2 weights `0.6 · skills + 0.3 · experience + 0.1 · education`; with no degree requirement, education's weight is redistributed onto skills + experience.
+
+### Score distribution — all three levels
+
+The same 225 pairs scored three ways, all on 0–100 (each level aggregated to one score per pair):
+
+<img src="results/figures/three_level_distribution.png" alt="Per-pair score distribution across Levels 1, 2 and 3" width="640">
+
+The three means almost coincide (**L1 ≈ 34, L2 ≈ 35, L3 ≈ 36**), but the *shape* differs: the LLM-judge levels (L1, L2) are wide and near-bimodal (sd ≈ 26), while the embedding-based Level 3 is markedly tighter (sd ≈ 17) — more structure, less spread.
 
 ### Status
 
-Pipeline complete. **Known issue under mitigation:** a few (CV, JD) pairs receive an inflated MaxSim block score on tiny JDs or mixed-heavy CV/JD combinations — fix in progress. Evaluation against human gold labels is pending.
+Pipeline runs end-to-end; validation (construct validity, coarse-vs-fine tag agreement, discriminant check) done. Evaluation against human gold labels and a final weighting decision are pending. **Known limitation:** degree extraction is US-centric and misses non-US credentials — reported with that caveat.
 
 ---
 

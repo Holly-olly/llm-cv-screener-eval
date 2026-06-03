@@ -10,7 +10,7 @@ the Skills prototype than to Experience / Education? If yes, the LLM's
 tagging is internally consistent with the semantic anchors it was given.
 
 Reads:
-  - results/level3/llm_labelled_json/{jd_id}.csv
+  - results/level3/labelled/jd/{jd_id}.json   (unified labelled format)
 
 Writes:
   - results/level3/segment_embeddings.npz       embeddings + chunk metadata
@@ -30,6 +30,7 @@ Run:
     python3 scripts/level3/05_embed_and_similarity.py
 """
 
+import json
 from pathlib import Path
 
 import numpy as np
@@ -38,7 +39,7 @@ from sentence_transformers import SentenceTransformer
 
 
 ROOT       = Path(__file__).parent.parent.parent
-LBL_DIR    = ROOT / "results" / "level3" / "llm_labelled_json"
+LBL_DIR    = ROOT / "results" / "level3" / "labelled" / "jd"
 EMB_OUT    = ROOT / "results" / "level3" / "segment_embeddings.npz"
 SIM_OUT    = ROOT / "results" / "level3" / "segment_similarities.csv"
 
@@ -66,15 +67,20 @@ PROTOTYPES = {
 
 
 def load_segments() -> pd.DataFrame:
-    """Concatenate all per-JD CSVs into one DataFrame; keep non-other rows."""
-    frames = []
-    for csv_path in sorted(LBL_DIR.glob("*.csv")):
-        jd_id = csv_path.stem
-        df = pd.read_csv(csv_path, keep_default_na=False)
-        df["jd_id"] = jd_id
-        df["chunk_id"] = df.apply(lambda r: f"{jd_id}__line{r['line_id']}", axis=1)
-        frames.append(df)
-    full = pd.concat(frames, ignore_index=True)
+    """Read all unified labelled JD JSONs into one DataFrame; keep non-other rows."""
+    rows = []
+    for json_path in sorted(LBL_DIR.glob("*.json")):
+        jd_id = json_path.stem
+        rec = json.loads(json_path.read_text(encoding="utf-8"))
+        for seg in rec.get("segments", []):
+            rows.append({
+                "jd_id":    jd_id,
+                "line_id":  seg["line_id"],
+                "tag":      seg.get("tag", ""),
+                "text":     seg.get("text", ""),
+                "chunk_id": f"{jd_id}__line{seg['line_id']}",
+            })
+    full = pd.DataFrame(rows)
     # Keep only segments with a construct tag — `other` is dropped.
     keep = full[full["tag"].isin(["skills", "experience", "education", "mixed"])].copy()
     return keep.reset_index(drop=True)
