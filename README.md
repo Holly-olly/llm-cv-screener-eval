@@ -170,6 +170,10 @@ The system is intentionally transparent: rubric, prompt, thresholds, and tempera
   Design and dataset documentation in progress 
   [level_3_structural_evaluation.md](level_3_structural_evaluation.md)
 
+* **Robustness — Prompt-injection study** *(extension)*
+  Do hidden injection lines in a CV move the score, and does the structured (glass-box) scorer resist them? Four injection styles, two providers, noise-controlled.
+  [prompt_injection_study/README.md](prompt_injection_study/README.md)
+
 ---
 
 ## What I Do
@@ -211,5 +215,6 @@ llm_evaluation/
 │
 ├── scripts/                               # analysis pipeline (incl. scripts/figures/)
 ├── notebooks/                             # analysis notebook
-└── results/                               # master CSVs + analysis/ + figures/
+├── results/                               # master CSVs + analysis/ + figures/
+└── prompt_injection_study/                # robustness extension (own README, scripts, figures)
 ```

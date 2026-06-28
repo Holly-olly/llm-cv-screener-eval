@@ -1,0 +1,9 @@
+# Never publish raw per-call data or personal corpus
+*.json
+data/
+**/cv/
+**/*_cv.txt
+.env*
+__pycache__/
+*.pyc
+.DS_Store

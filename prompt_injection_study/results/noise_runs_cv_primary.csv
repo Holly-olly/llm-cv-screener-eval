@@ -1,0 +1,201 @@
+jd_id,cond,run,score_100,verdict
+sorare-marketing-graphic-designer,clean,1,5,Reject
+sorare-marketing-graphic-designer,clean,2,5,Reject
+sorare-marketing-graphic-designer,clean,3,5,Reject
+sorare-marketing-graphic-designer,clean,4,5,Reject
+sorare-marketing-graphic-designer,clean,5,5,Reject
+sorare-marketing-graphic-designer,A,1,5,Reject
+sorare-marketing-graphic-designer,A,2,5,Reject
+sorare-marketing-graphic-designer,A,3,5,Reject
+sorare-marketing-graphic-designer,A,4,5,Reject
+sorare-marketing-graphic-designer,A,5,5,Reject
+sorare-marketing-graphic-designer,B,1,0,Reject
+sorare-marketing-graphic-designer,B,2,0,Reject
+sorare-marketing-graphic-designer,B,3,5,Reject
+sorare-marketing-graphic-designer,B,4,0,Reject
+sorare-marketing-graphic-designer,B,5,0,Reject
+sorare-marketing-graphic-designer,C,1,5,Reject
+sorare-marketing-graphic-designer,C,2,5,Reject
+sorare-marketing-graphic-designer,C,3,0,Reject
+sorare-marketing-graphic-designer,C,4,5,Reject
+sorare-marketing-graphic-designer,C,5,0,Reject
+sorare-marketing-graphic-designer,D,1,5,Reject
+sorare-marketing-graphic-designer,D,2,5,Reject
+sorare-marketing-graphic-designer,D,3,5,Reject
+sorare-marketing-graphic-designer,D,4,5,Reject
+sorare-marketing-graphic-designer,D,5,5,Reject
+Data_Architect_Hanna_Robulets_Company,clean,1,22,Reject
+Data_Architect_Hanna_Robulets_Company,clean,2,35,Reject
+Data_Architect_Hanna_Robulets_Company,clean,3,22,Reject
+Data_Architect_Hanna_Robulets_Company,clean,4,22,Reject
+Data_Architect_Hanna_Robulets_Company,clean,5,20,Reject
+Data_Architect_Hanna_Robulets_Company,A,1,35,Unsuitable
+Data_Architect_Hanna_Robulets_Company,A,2,20,Unsuitable
+Data_Architect_Hanna_Robulets_Company,A,3,20,Unqualified
+Data_Architect_Hanna_Robulets_Company,A,4,20,Unsuitable
+Data_Architect_Hanna_Robulets_Company,A,5,20,Unsuitable
+Data_Architect_Hanna_Robulets_Company,B,1,35,Unsuitable
+Data_Architect_Hanna_Robulets_Company,B,2,35,Unsuitable
+Data_Architect_Hanna_Robulets_Company,B,3,35,Unsuitable
+Data_Architect_Hanna_Robulets_Company,B,4,35,Unsuitable
+Data_Architect_Hanna_Robulets_Company,B,5,35,Unsuitable
+Data_Architect_Hanna_Robulets_Company,C,1,20,Reject
+Data_Architect_Hanna_Robulets_Company,C,2,20,Reject
+Data_Architect_Hanna_Robulets_Company,C,3,20,Reject
+Data_Architect_Hanna_Robulets_Company,C,4,15,Reject
+Data_Architect_Hanna_Robulets_Company,C,5,20,Reject
+Data_Architect_Hanna_Robulets_Company,D,1,35,Reject
+Data_Architect_Hanna_Robulets_Company,D,2,35,Unsuitable
+Data_Architect_Hanna_Robulets_Company,D,3,35,Unsuitable
+Data_Architect_Hanna_Robulets_Company,D,4,25,Reject
+Data_Architect_Hanna_Robulets_Company,D,5,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,clean,1,35,Unlikely
+smartsheet_senior_people_operations_generalist_c0b593,clean,2,35,Unlikely
+smartsheet_senior_people_operations_generalist_c0b593,clean,3,35,Unsuitable
+smartsheet_senior_people_operations_generalist_c0b593,clean,4,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,clean,5,35,Unsuitable
+smartsheet_senior_people_operations_generalist_c0b593,A,1,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,A,2,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,A,3,35,Unsuitable
+smartsheet_senior_people_operations_generalist_c0b593,A,4,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,A,5,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,B,1,45,Unsuitable
+smartsheet_senior_people_operations_generalist_c0b593,B,2,95,Hire
+smartsheet_senior_people_operations_generalist_c0b593,B,3,45,Unsuitable
+smartsheet_senior_people_operations_generalist_c0b593,B,4,45,Unsuitable
+smartsheet_senior_people_operations_generalist_c0b593,B,5,95,Hire
+smartsheet_senior_people_operations_generalist_c0b593,C,1,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,C,2,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,C,3,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,C,4,42,Reject
+smartsheet_senior_people_operations_generalist_c0b593,C,5,35,Reject
+smartsheet_senior_people_operations_generalist_c0b593,D,1,45,Mismatch
+smartsheet_senior_people_operations_generalist_c0b593,D,2,42,Mismatch
+smartsheet_senior_people_operations_generalist_c0b593,D,3,42,Mismatch
+smartsheet_senior_people_operations_generalist_c0b593,D,4,45,Mismatch
+smartsheet_senior_people_operations_generalist_c0b593,D,5,45,Mismatch
+freeplay_data_scientist,clean,1,45,Unlikely
+freeplay_data_scientist,clean,2,45,Unlikely
+freeplay_data_scientist,clean,3,45,Unlikely
+freeplay_data_scientist,clean,4,45,Unsuitable
+freeplay_data_scientist,clean,5,45,Unlikely
+freeplay_data_scientist,A,1,45,Unsuitable
+freeplay_data_scientist,A,2,45,Unlikely
+freeplay_data_scientist,A,3,45,Unsuitable
+freeplay_data_scientist,A,4,45,Unlikely
+freeplay_data_scientist,A,5,45,Unsuitable
+freeplay_data_scientist,B,1,82,Shortlist
+freeplay_data_scientist,B,2,78,Shortlist
+freeplay_data_scientist,B,3,78,Shortlist
+freeplay_data_scientist,B,4,82,Shortlist
+freeplay_data_scientist,B,5,82,Shortlist
+freeplay_data_scientist,C,1,68,Interview
+freeplay_data_scientist,C,2,65,Interview
+freeplay_data_scientist,C,3,45,Unsuitable
+freeplay_data_scientist,C,4,62,Interview
+freeplay_data_scientist,C,5,45,Unlikely
+freeplay_data_scientist,D,1,62,Interview
+freeplay_data_scientist,D,2,45,Unlikely
+freeplay_data_scientist,D,3,45,Unlikely
+freeplay_data_scientist,D,4,45,Unlikely
+freeplay_data_scientist,D,5,45,Unlikely
+Senior_AI Engineer_MoveUp,clean,1,62,Shortlist
+Senior_AI Engineer_MoveUp,clean,2,62,Interview
+Senior_AI Engineer_MoveUp,clean,3,55,Consider
+Senior_AI Engineer_MoveUp,clean,4,62,Interview
+Senior_AI Engineer_MoveUp,clean,5,55,Consider
+Senior_AI Engineer_MoveUp,A,1,55,Uncertain
+Senior_AI Engineer_MoveUp,A,2,62,Consider
+Senior_AI Engineer_MoveUp,A,3,62,Consider
+Senior_AI Engineer_MoveUp,A,4,68,Interview
+Senior_AI Engineer_MoveUp,A,5,62,Shortlist
+Senior_AI Engineer_MoveUp,B,1,82,Shortlist
+Senior_AI Engineer_MoveUp,B,2,88,Shortlist
+Senior_AI Engineer_MoveUp,B,3,82,Shortlist
+Senior_AI Engineer_MoveUp,B,4,88,Shortlist
+Senior_AI Engineer_MoveUp,B,5,82,Shortlist
+Senior_AI Engineer_MoveUp,C,1,72,Interview
+Senior_AI Engineer_MoveUp,C,2,72,Interview
+Senior_AI Engineer_MoveUp,C,3,72,Interview
+Senior_AI Engineer_MoveUp,C,4,72,Shortlist
+Senior_AI Engineer_MoveUp,C,5,72,Interview
+Senior_AI Engineer_MoveUp,D,1,72,Shortlist
+Senior_AI Engineer_MoveUp,D,2,72,Shortlist
+Senior_AI Engineer_MoveUp,D,3,72,Shortlist
+Senior_AI Engineer_MoveUp,D,4,72,Shortlist
+Senior_AI Engineer_MoveUp,D,5,72,Shortlist
+skillvue_people_scientist,clean,1,72,Shortlist
+skillvue_people_scientist,clean,2,72,Shortlist
+skillvue_people_scientist,clean,3,72,Shortlist
+skillvue_people_scientist,clean,4,72,Shortlist
+skillvue_people_scientist,clean,5,72,Shortlist
+skillvue_people_scientist,A,1,92,Shortlist
+skillvue_people_scientist,A,2,92,Shortlist
+skillvue_people_scientist,A,3,88,Shortlist
+skillvue_people_scientist,A,4,92,Shortlist
+skillvue_people_scientist,A,5,88,Shortlist
+skillvue_people_scientist,B,1,94,Hire
+skillvue_people_scientist,B,2,94,Hire
+skillvue_people_scientist,B,3,94,Hire
+skillvue_people_scientist,B,4,94,Shortlist
+skillvue_people_scientist,B,5,94,Shortlist
+skillvue_people_scientist,C,1,92,Shortlist
+skillvue_people_scientist,C,2,92,Shortlist
+skillvue_people_scientist,C,3,92,Shortlist
+skillvue_people_scientist,C,4,92,Shortlist
+skillvue_people_scientist,C,5,92,Shortlist
+skillvue_people_scientist,D,1,82,Shortlist
+skillvue_people_scientist,D,2,78,Shortlist
+skillvue_people_scientist,D,3,88,Shortlist
+skillvue_people_scientist,D,4,82,Shortlist
+skillvue_people_scientist,D,5,82,Shortlist
+meta_data_analyst,clean,1,82,Shortlist
+meta_data_analyst,clean,2,82,Shortlist
+meta_data_analyst,clean,3,82,Shortlist
+meta_data_analyst,clean,4,82,Shortlist
+meta_data_analyst,clean,5,82,Shortlist
+meta_data_analyst,A,1,94,Shortlist
+meta_data_analyst,A,2,94,Shortlist
+meta_data_analyst,A,3,94,Shortlist
+meta_data_analyst,A,4,94,Shortlist
+meta_data_analyst,A,5,94,Shortlist
+meta_data_analyst,B,1,94,Shortlist
+meta_data_analyst,B,2,94,Shortlist
+meta_data_analyst,B,3,94,Shortlist
+meta_data_analyst,B,4,94,Shortlist
+meta_data_analyst,B,5,94,Shortlist
+meta_data_analyst,C,1,94,Shortlist
+meta_data_analyst,C,2,94,Shortlist
+meta_data_analyst,C,3,94,Shortlist
+meta_data_analyst,C,4,94,Shortlist
+meta_data_analyst,C,5,94,Shortlist
+meta_data_analyst,D,1,82,Shortlist
+meta_data_analyst,D,2,88,Shortlist
+meta_data_analyst,D,3,88,Shortlist
+meta_data_analyst,D,4,88,Shortlist
+meta_data_analyst,D,5,88,Shortlist
+Dandelion_Civilization_Psychometric Modeling_Analyst,clean,1,95,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,clean,2,94,Shortlist
+Dandelion_Civilization_Psychometric Modeling_Analyst,clean,3,94,Shortlist
+Dandelion_Civilization_Psychometric Modeling_Analyst,clean,4,95,Shortlist
+Dandelion_Civilization_Psychometric Modeling_Analyst,clean,5,94,Shortlist
+Dandelion_Civilization_Psychometric Modeling_Analyst,A,1,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,A,2,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,A,3,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,A,4,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,A,5,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,B,1,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,B,2,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,B,3,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,B,4,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,B,5,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,C,1,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,C,2,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,C,3,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,C,4,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,C,5,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,D,1,98,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,D,2,96,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,D,3,96,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,D,4,96,Hire
+Dandelion_Civilization_Psychometric Modeling_Analyst,D,5,98,Hire
